@@ -110,7 +110,7 @@ Jue Wang, **Shuo Wang**, et al. (2020). [Current Ethical Situation of COVID19 in
 ![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
 Wei Hu., & **Shuo Wang**. (2019). [A Study on the Participation of New Local Elites in Grassroots Governance in Rural Revitalization: A Case Study of Three Places in Jiangsu Province](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true). In A Study of Sages, Clans and Contemporary Rural Cultural Construction (pp. 254-269). World Publishing Corporation Guangdong Branch.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -119,4 +119,4 @@ Wei Hu., & **Shuo Wang**. (2019). [A Study on the Participation of New Local Eli
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
