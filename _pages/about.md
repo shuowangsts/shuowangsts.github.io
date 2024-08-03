@@ -32,19 +32,19 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 - *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
-![AI for Science](https://img.shields.io/badge/AI%20%26%20SOC-brightgreen)
+![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
 **Shuo Wang**, [Hiromi M. Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**. [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Tianyu Liu, Chen Wang, Yaoyao Liu. (2024). [Exploring the Capabilities and Risk Delineation of Generative AI in Medical Applications](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01). *Medicine & Philosophy*, 12: 1-5.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, [Shotaro Kinoshita](https://researchmap.jp/kinoshita_shotaro), [Hiromi M. Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*. 2024, 60, 3, 417-417.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.
 
 ![S&T Ethical Education](https://img.shields.io/badge/S%26T%20Ethical%20Education-brightgreen)
@@ -77,7 +77,7 @@ Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Busines
 ![Digital Ethics](https://img.shields.io/badge/Digital%20Ethics-brightgreen)
 **Shuo Wang**, & Qiufu Li. (2023). [Digital Ethics: New Missions and Norms for Science Popularization in the Digital Transformation](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KUYT202303007&uniplatform=OVERSEA&v=vOQ2bm23jeoK5rhVyJCuikWlqDxYTxKpCnfdl50pkmPgUa73iVXNGMVVJXWCpZT1). *Studies on Science Popularization*, 03, 57-64.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Kanxiao Wen, Tianyu Liu, Liu H Y. (2023). [Ethical Risk and Governance Analysis of Medical Robots: Based on the 'Doctor-Patient-Robot' Analytical Framework](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML). *Medicine & Philosophy*, 23: 16-21.
 
 ![S&T Ethical Education](https://img.shields.io/badge/S%26T%20Ethical%20Education-brightgreen)
@@ -92,7 +92,7 @@ Liu H Y, **Shuo Wang**, Kanxiao Wen. (2023). [Status and Trends of International
 ![Medical Policy](https://img.shields.io/badge/Medical%20Policy-brightgreen)
 Kanxiao Wen, **Shuo Wang**, Li Zhang. (2023). [The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: Knowledge Mapping Analysis Based upon Citespace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G). *China Health Law*, 31(03):45-53.
 
-![AI for Medicine](https://img.shields.io/badge/Medical%20AI-brightgreen)
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Jue Wang, Kanxiao Wen. (2022). [International Research on Precision Medicine Ethics: Knowledge Base and Hot Frontiers](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZRBT202207011&uniplatform=OVERSEA&v=_lUfc2Vu3xsDSrYub9sBXI9T7868fLegQ1u2hlrp2OM60fPSZWLwASaEMk9tapNh). *Journal of Dialectics of Nature*, 07, 83-93.
 
 ![Digital Ethics](https://img.shields.io/badge/Digital%20Ethics-brightgreen)
