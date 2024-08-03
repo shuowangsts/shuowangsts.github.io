@@ -34,8 +34,7 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 
 # 📝 Publications 
 ![AI & SOC](https://img.shields.io/badge/AI%20%26%20SOC-brightgreen)
-**Wang S**, [Yokoyama H. M](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First.
-
+**Shuo Wang**, [Hiromi M. Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
