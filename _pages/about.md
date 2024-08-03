@@ -33,6 +33,8 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 - *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI & SOC</div></div></div><div class='paper-box-text' markdown="1">**Wang S**, [Yokoyama H. M](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) AI & Society. 2024, Online First.</div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
