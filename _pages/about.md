@@ -19,16 +19,15 @@ redirect_from:
 
 My name is Shuo Wang. It's a pleasure to meet you! I am a PhD Candidate in Sociology of Science at the [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), China. I am also the academic editor of [Studies on Science Popularization](https://kpyj.ijournals.cn/ch/index.aspx).
 
-My major is Science, Technology and Society (STS). My research interests are AI and Society, medicine and society, ELSI and RRI. My PhD thesis studies AI for Science.
-
+My major is Science, Technology and Society (STS). My research interests are AI and Society, Medicine and Society, ELSI and RRI. My PhD thesis studies AI for Science.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2023.10 - 2024.10*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting PhD student**, Science and Technology Studies
 - *2022.04 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
+- *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
 - *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Public Administration
 - *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
