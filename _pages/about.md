@@ -21,6 +21,13 @@ My name is Shuo Wang. It's a pleasure to meet you! I am a PhD Candidate in Socio
 
 My major is Science, Technology and Society (STS). My research interests are AI and Society, medicine and society, ELSI and RRI. My PhD thesis studies AI for Science.
 
+# 📖 Educations
+- *2023.10 - 2024.10*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting PhD student**, Science and Technology Studies
+- *2022.04 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
+- *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Public Administration
+- *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
+
+
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -44,10 +51,6 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
