@@ -33,7 +33,7 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 
 # 📝 Publications 
 ![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
-**Shuo Wang**, [Hiromi M. Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First.
+**Shuo Wang**, [Hiromi M. Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/Language-English-blue)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**. [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.
