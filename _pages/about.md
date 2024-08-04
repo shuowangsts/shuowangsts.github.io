@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Shuo Wang. It's great pleasure to meet you! I am a PhD Candidate at the [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), China. I am also the academic editor of [Studies on Science Popularization](https://kpyj.ijournals.cn/ch/index.aspx).
+My name is Shuo Wang. It's a great pleasure to meet you! I am a PhD Candidate at the [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), China. I am also the academic editor of [Studies on Science Popularization](https://kpyj.ijournals.cn/ch/index.aspx).
 
 My major is **Sociology of Science**, commonly known as Science, Technology, and Society (**STS**). With Artificial Intelligence (AI) profoundly reshaping various aspects of society, I am very interested in **AI-related issues**, including **medical AI**, **public attitudes towards AI**, and **digital and algorithmic ethics**. Specifically, my PhD dissertation focuses on **AI for Science(AI4S)**. Additionally, as science and technology (S&T) increasingly influence society as a holistic force, I am also interested in **ELSI topics**, including **science communication**, **public trust in science**, and **ethical governance and education of S&T**. I warmly welcome any potential collaborators to join me in conducting research.
 
