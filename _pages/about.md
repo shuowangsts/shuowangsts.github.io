@@ -26,7 +26,7 @@ My major is Science, Technology and Society (STS). My research interests are AI 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2022.04 - now*, <img src="/images/sss.jpg" alt="ByteDance" width="40" height="20"/>[Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
+- *2022.04 - now*, <img src="/images/sss.jpg" alt="ByteDance" width="60" height="10"/>[Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
 - *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
 - *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Public Administration
 - *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
