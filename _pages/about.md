@@ -21,7 +21,7 @@ My name is Shuo Wang. It's a pleasure to meet you! I am a PhD Candidate in Socio
 
 My major is Science, Technology and Society (STS). My research interests are AI and Society, Medicine and Society, ELSI and RRI. My PhD thesis studies **AI for Science**.
 
-Following the wisdom of ancient Chinese sages, *Read ten thousand books, travel ten thousand miles*. I enjoy reading diverse books, especially those outside my field that offer endless inspiration. I also love exploring the world with my own eyes and feet. Often, it's the unexpected encounters that hold the most significance, more than the obvious scenery.
+As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel ten thousand miles."*** I enjoy reading diverse books, especially those outside my field that offer endless inspiration. I also love exploring the world with my own eyes and feet. Often, it's the unexpected encounters that hold the most significance, more than the obvious scenery.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
