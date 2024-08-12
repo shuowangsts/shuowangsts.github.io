@@ -37,17 +37,20 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 <img src="/images/hum.png" alt="ByteDance" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
+**Shuo Wang**, Tianyu Liu, Hiromi M. Yokoyama, Shotaro Kinoshita. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
+
 ![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
 **Shuo Wang**, Hiromi M. Yokoyama. [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**. [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Tianyu Liu, Chen Wang, Yaoyao Liu. (2024). [Exploring the Capabilities and Risk Delineation of Generative AI in Medical Applications](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01). *Medicine & Philosophy*, 12: 1-5.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*. 2024, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.![English](https://img.shields.io/badge/English-blue)
@@ -80,7 +83,7 @@ Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Busines
 **Shuo Wang**, Hongyu Liu. (2023). [Research on Cross-Departmental Sharing of Government Data From an Organizational Perspective](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBZZ202302019&uniplatform=OVERSEA&v=YAC9jqG6Ua3Pca62EdtIrq_AzOUZc9HNdEEOShtYCmrh6btAMqOE9bIaHxJL3k9E). *Journal of Intelligence*, 02, 126-133.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 ![Digital Ethics](https://img.shields.io/badge/Digital%20Ethics-brightgreen)
-**Shuo Wang**, & Qiufu Li. (2023). [Digital Ethics: New Missions and Norms for Science Popularization in the Digital Transformation](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KUYT202303007&uniplatform=OVERSEA&v=vOQ2bm23jeoK5rhVyJCuikWlqDxYTxKpCnfdl50pkmPgUa73iVXNGMVVJXWCpZT1). *Studies on Science Popularization*, 03, 57-64.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/JX-kdlk9rqbaxkysRvflyg)
+**Shuo Wang**, Qiufu Li. (2023). [Digital Ethics: New Missions and Norms for Science Popularization in the Digital Transformation](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KUYT202303007&uniplatform=OVERSEA&v=vOQ2bm23jeoK5rhVyJCuikWlqDxYTxKpCnfdl50pkmPgUa73iVXNGMVVJXWCpZT1). *Studies on Science Popularization*, 03, 57-64.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/JX-kdlk9rqbaxkysRvflyg)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Kanxiao Wen, Tianyu Liu, Hongyu Liu. (2023). [Ethical Risk and Governance Analysis of Medical Robots: Based on the 'Doctor-Patient-Robot' Analytical Framework](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML). *Medicine & Philosophy*, 23: 16-21.![Chinese](https://img.shields.io/badge/Chinese-red)
@@ -113,7 +116,7 @@ Jue Wang, **Shuo Wang**. (2020). [Promoting the Advantages of Government Ethics 
 Jue Wang, **Shuo Wang**, et al. (2020). [Current Ethical Situation of COVID19 in Jiangsu Province and Countermeasures for Post-Epidemic Ethical Construction](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm). *Decision Making Reference for Jiangsu Provincial Social Science Federation*, 14.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 ![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
-Wei Hu., & **Shuo Wang**. (2019). [A Study on the Participation of New Local Elites in Grassroots Governance in Rural Revitalization: A Case Study of Three Places in Jiangsu Province](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true). In A Study of Sages, Clans and Contemporary Rural Cultural Construction (pp. 254-269). World Publishing Corporation Guangdong Branch.![Chinese](https://img.shields.io/badge/Chinese-red)
+Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elites in Grassroots Governance in Rural Revitalization: A Case Study of Three Places in Jiangsu Province](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true). In A Study of Sages, Clans and Contemporary Rural Cultural Construction (pp. 254-269). World Publishing Corporation Guangdong Branch.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
