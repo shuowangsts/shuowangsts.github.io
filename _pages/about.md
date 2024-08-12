@@ -41,7 +41,7 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 **Shuo Wang**, Tianyu Liu, Hiromi M. Yokoyama, Shotaro Kinoshita. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
-**Shuo Wang**, Hiromi M. Yokoyama. [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
