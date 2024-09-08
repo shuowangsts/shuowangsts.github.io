@@ -38,7 +38,11 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 
 # 📝 Publications 
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Tianyu Liu, Hiromi M. Yokoyama, Shotaro Kinoshita. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations
+](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue)
+
+![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
+**Shuo Wang**, Tianyu Liu, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
 
 ![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
 **Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
