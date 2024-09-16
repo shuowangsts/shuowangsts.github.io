@@ -37,6 +37,13 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 <img src="/images/hum.png" alt="ByteDance" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
+![Science Communication](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
+**Shuo Wang**. (2024). [Scientific-related Populism in Contemporary Western Society: A New Scientific Culture Phenomenon](https://jdn.ucas.ac.cn/english/browse/latestview/id/1058). *Studies in Dialectics of Nature*, 10, 76-86.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
+![Science Communication](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
+**Shuo Wang**, Yan Yan. (2024). [Opportunities and Challenges of Science and Technology Communication in the Era of Artificial Intelligence Generated Content:Analysis Based on Science and Technology Communication System
+](http://www.zgkjlt.org.cn/CN/abstract/abstract11767.shtml). *Forum on Science and Technology in China*, 09, 134-143.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
 ![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
 **Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations
 ](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue)
