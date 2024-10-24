@@ -37,6 +37,9 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 <img src="/images/hum.png" alt="ByteDance" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
+![AI for Science Communication](https://img.shields.io/badge/AI%20for%20Science%20Communication-brightgreen)
+**Shuo Wang**, Yan Yan，Zhengfeng Li.(2024). [Empowering Science Popularization through Generative Artificial Intelligence：Technological Opportunities，Ethical Risks and Response Strategies](https://kpyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=202404001&flag=1). *Studies on Science Popularization*, 04, 5-13.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
 ![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen)
 **Shuo Wang**. (2024). [Scientific-related Populism in Contemporary Western Society: A New Scientific Culture Phenomenon](https://jdn.ucas.ac.cn/english/browse/latestview/id/1058). *Studies in Dialectics of Nature*, 10, 76-86.![Chinese](https://img.shields.io/badge/Chinese-red) 
 
