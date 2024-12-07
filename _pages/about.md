@@ -37,6 +37,9 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 <img src="/images/hum.png" alt="ByteDance" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
+![Algorithmic Ethics](https://img.shields.io/badge/Algorithmic%20Ethics-brightgreen)
+Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
+
 ![AI for Science Communication](https://img.shields.io/badge/AI%20for%20Science%20Communication-brightgreen)
 **Shuo Wang**, Yan Yan，Zhengfeng Li.(2024). [Empowering Science Popularization through Generative Artificial Intelligence：Technological Opportunities，Ethical Risks and Response Strategies](https://kpyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=202404001&flag=1). *Studies on Science Popularization*, 04, 5-13.![Chinese](https://img.shields.io/badge/Chinese-red) 
 
@@ -80,9 +83,6 @@ Yaoyao Liu, **Shuo Wang**, Zhengfeng Li. (2024). [Scientific and Technological E
 
 ![Medical Policy](https://img.shields.io/badge/Medical%20Policy-brightgreen)
 Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue)
-
-![Algorithmic Ethics](https://img.shields.io/badge/Algorithmic%20Ethics-brightgreen)
-Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, Online First.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 ![Digital Governance](https://img.shields.io/badge/Digital%20Governance-brightgreen)
 Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Business Data Sharing to Government: Based on Fuzzy Set Qualitative Comparative Analysis](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBKX202401014&uniplatform=OVERSEA&v=or1wNpxgpPHH70ZzhV-u6LkZ4MKstVsBouyovpn-IdDLa3oC1B0cpQGV4Cac9V38). *Information Science*, 42(01):115-121+142.![Chinese](https://img.shields.io/badge/Chinese-red)
