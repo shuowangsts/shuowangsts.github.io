@@ -24,7 +24,7 @@ My major is **Sociology of Science**, commonly known as Science, Technology, and
 As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel ten thousand miles."*** I enjoy reading diverse books, especially those outside my field that always bring me inspiration. I also love exploring the world with my own eyes and feet. Often, it’s the unexpected encounters more than the obvious scenery that hold the most significance.
 
 # 🔥 News
-- 📢 <a href="https://www.linkedin.com/pulse/call-papersai-science-reverberations-ethical-social-shuo-wang-jbgnc/?trackingId=saiJ0Hz58ONjIcnWdlCnYA%3D%3D" style="color: #1E90FF;"><b>Call for Papers｜AI for Science: Reverberations of Ethical and Social Responsibility</b></a>
+- 📢 <a href="https://www.linkedin.com/pulse/call-papersai-science-reverberations-ethical-social-shuo-wang-jbgnc/?trackingId=saiJ0Hz58ONjIcnWdlCnYA%3D%3D" style="color: #1E90FF;"><b>4S Panel Call for Papers｜AI for Science: Reverberations of Ethical and Social Responsibility</b></a>
 
 # 📖 Educations
 <img src="/images/sss.jpg" alt="ByteDance" width="120" height="20"/> *2022.04 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
