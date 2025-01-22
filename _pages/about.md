@@ -36,7 +36,7 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 # 📝 Publications 
 ![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
 
-![AI for Science Communication](https://img.shields.io/badge/Medical%20Communication-blue) **Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-green) 
+![AI for Science Communication](https://img.shields.io/badge/Medical%20Communication-blue) **Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-blue)
 
 ![Algorithmic Ethics](https://img.shields.io/badge/Algorithmic%20Ethics-brightgreen)
 Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
