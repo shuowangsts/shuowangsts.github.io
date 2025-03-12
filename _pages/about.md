@@ -36,7 +36,8 @@ As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel te
 <img src="/images/hum.png" alt="ByteDance" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
 # 📝 Publications 
-![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) **Shuo Wang**, Tuo Wang, Hiromi M. Yokoyama, Shotaro Kinoshita, Zhengfeng Li. (2025). [Beyond a single pole: exploring the nuanced coexistence of scientific elitism and populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info). *Humanities and Social Sciences Communications*,12,353. ![English](https://img.shields.io/badge/English-blue)
+![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) **Shuo Wang**, Tuo Wang, Hiromi M. Yokoyama, Shotaro Kinoshita, Zhengfeng Li. (2025). [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China
+](https://www.nature.com/articles/s41599-025-04685-3#article-info). *Humanities and Social Sciences Communications*,12,353. ![English](https://img.shields.io/badge/English-blue)
 
 ![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
 
