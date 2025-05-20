@@ -13,17 +13,13 @@ lang: zh # （推荐为中文版添加）
 我叫王硕，非常高兴认识你！我是[清华大学](https://www.tsinghua.edu.cn/) [社会科学学院](https://www.sss.tsinghua.edu.cn/) [社会学系](https://www.soc.tsinghua.edu.cn/#)的一名博士候选人。
 
 # 📖 教育经历
-<img src="/images/ipmu.png" alt="东京大学卡维里宇宙物理学与数学研究所" width="120" height="20"/> *2023.10至今*, 东京大学卡维里宇宙物理学与数学研究所, 联合培养博士生
-*	科学技术学专业，导师：Hiromi Yokoyama教授
+<img src="/images/ipmu.png" alt="东京大学卡维里宇宙物理学与数学研究所" width="120" height="20"/> *2023.10至今*, 东京大学卡维里宇宙物理学与数学研究所, 联合培养博士生, 科学技术学专业
 
-<img src="/images/sss.jpg" alt="清华大学社会科学学院" width="120" height="20"/> *2022.04至今*, 清华大学社会科学学院，博士研究生
-*	社会学专业，导师：李正风教授
+<img src="/images/sss.jpg" alt="清华大学社会科学学院" width="120" height="20"/> *2022.04至今*, 清华大学社会科学学院，博士研究生, 社会学专业
 
-<img src="/images/sppm.png" alt="清华大学公共管理学院" width="120" height="20"/> *2021.09—2022.04*, 清华大学公共管理学院，博士研究生
-*	公共管理专业，导师：江小涓教授
+<img src="/images/sppm.png" alt="清华大学公共管理学院" width="120" height="20"/> *2021.09—2022.04*, 清华大学公共管理学院，博士研究生, 公共管理专业
 
-<img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> *2017.09—2021.06*, 东南大学人文学院，本科生
-*	政治学与行政学专业，导师：王珏教授、张敏副教授
+<img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> *2017.09—2021.06*, 东南大学人文学院，本科生, 政治学与行政学专业
 
 # 🧑‍💼 学术任职与社会服务
 
