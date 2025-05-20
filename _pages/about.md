@@ -232,9 +232,9 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**. [基于学生需求导向的科技伦理教育思考](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1w2NMygnJCFS9Iqj4TDNKPu0NFwMgYGSFW2U3XJrIapLNXxVBHkrIKhCb1Os-Z3iqoRX8KTj5cgDDASVnm_yq_LEfNuIJuYL39SsUfb_tjhOIqWvHnK1knTA==&uniplatform=NZKPT&language=CHS)[J].*教育家*,2023,(26):9-10.
 
-杨斌,李正风.高等学校科技伦理教育研究报告[M].北京:高等教育出版社,2024:11-25.
+杨斌,李正风.[高等学校科技伦理教育研究报告](https://www.tsinghua.edu.cn/info/1182/111167.htm)[M].北京:高等教育出版社,2024:11-25.
 
-全国科学道德和学风建设宣讲教育领导小组.科学道德与学风建设读本[M].北京:中国科学技术出版社,2024:112-113,166-168.
+全国科学道德和学风建设宣讲教育领导小组.[科学道德与学风建设读本](https://book.douban.com/subject/36759315/)[M].北京:中国科学技术出版社,2024:112-113,166-168.
 
 ### （三）科技传播与科学文化
 
@@ -292,7 +292,7 @@ Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Spec
 
 王珏,**王硕**,洪岩璧,龙书芹. ([江苏省灾疫伦理现状及灾后伦理建设对策](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm)), *江苏省社科联决策参阅*,2020, 14.
 
-胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载*《乡贤、宗族与当代乡村文化建设研究》*（254-269页）. 广东世界图书出版公司. 2019.
+胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载《乡贤、宗族与当代乡村文化建设研究》（254-269页）. 广东世界图书出版公司. 2019.
 
   <h2>科研项目：</h2>
   主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
