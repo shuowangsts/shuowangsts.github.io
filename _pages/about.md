@@ -146,16 +146,12 @@ Jue Wang, **Shuo Wang**, et al. (2020). [Current Ethical Situation of COVID19 in
 ![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
 Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elites in Grassroots Governance in Rural Revitalization: A Case Study of Three Places in Jiangsu Province](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true). In A Study of Sages, Clans and Contemporary Rural Cultural Construction (pp. 254-269). World Publishing Corporation Guangdong Branch.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-  {% comment %} ===== 英文内容区域结束 ===== {% endcomment %}
 </div>
 
 <div id="chinese-content" class="language-content" style="display: none;" markdown="1">
-  {% comment %} ====================================================== {% endcomment %}
-  {% comment %} =====         中文内容区域开始                     ===== {% endcomment %}
-  {% comment %} ===== 请将之前为你格式化好的完整中文内容粘贴在此 ===== {% endcomment %}
-  {% comment %} ====================================================== {% endcomment %}
   
   <span class='anchor' id='about-me-zh'></span>
+  
   我叫王硕，非常高兴认识你！我是[清华大学](https://www.tsinghua.edu.cn/) [社会科学学院](https://www.sss.tsinghua.edu.cn/) [社会学系](https://www.soc.tsinghua.edu.cn/#)的一名博士候选人。
 
   <h2 id="zh-educations">📖 教育经历</h2>
