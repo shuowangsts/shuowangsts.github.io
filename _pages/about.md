@@ -77,9 +77,9 @@ lang: en # 标记此页面主要默认语言为英文
 
 <h3 style="color: #006400; text-decoration: underline;">(I) Digital Society and Public Governance</h3>
 
-**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas (in Chinese). *Journal of Xi'an Jiaotong University (Social Sciences)*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
+**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas. *Journal of Xi'an Jiaotong University (Social Sciences)*.Online First. ![Chinese](https://img.shields.io/badge/Chinese-red) 
 
-**Shuo Wang**, Cheng Suo. (Online First). [Organized Disorder: The Accelerated Diffusion of Generative AI and Adaptation Dilemmas in Social Adoption—An Investigation Based on DeepSeek's "Deployment Competition" (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclGQnk6zXZeNLaCU-OaAWtzlZ5m-MD5UQvAGEs1v_6-qOO9FOsYNDpBw5vQbi2HAXBROiS8QZN-ASfagCdnrgL21C8J9ycfqPU=&uniplatform=NZKPT&language=CHS). *E-Government*. ![Chinese](https://img.shields.io/badge/Chinese-red)
+**Shuo Wang**, Cheng Suo. [Organized Disorder: The Accelerated Diffusion of Generative AI and Adaptation Dilemmas in Social Adoption—An Investigation Based on DeepSeek's "Deployment Competition" ](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclGQnk6zXZeNLaCU-OaAWtzlZ5m-MD5UQvAGEs1v_6-qOO9FOsYNDpBw5vQbi2HAXBROiS8QZN-ASfagCdnrgL21C8J9ycfqPU=&uniplatform=NZKPT&language=CHS). *E-Government*. Online First.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 **Shuo Wang**, Hongyu Liu. (2023). [Research on Cross-Departmental Sharing of Government Data From an Organizational Perspective](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBZZ202302019&uniplatform=OVERSEA&v=YAC9jqG6Ua3Pca62EdtIrq_AzOUZc9HNdEEOShtYCmrh6btAMqOE9bIaHxJL3k9E). *Journal of Intelligence*, 02, 126-133.![Chinese](https://img.shields.io/badge/Chinese-red)
 
@@ -89,11 +89,11 @@ Tianyu Liu, **Shuo Wang**, Hongyu Liu. (2023). [Ethics of “Algocracy”: A New
 
 Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
 
-Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. (2025). [Ethics of Computing Power: A New Form of Digital Ethics in the Intelligent Era (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS). *Studies in Dialectics of Nature*, 41(04), 89-98. ![Chinese](https://img.shields.io/badge/Chinese-red)
+Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. (2025). [Ethics of Computing Power: A New Form of Digital Ethics in the Intelligent Era](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS). *Studies in Dialectics of Nature*, 41(04), 89-98. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
-Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. [Reinterpreting the “Digital Society”: The Restructuring of Social Forms Driven by Technology (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS). *Studies in Science of Science*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
+Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. [Reinterpreting the “Digital Society”: The Restructuring of Social Forms Driven by Technology](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS). *Studies in Science of Science*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
 
-Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Research Ecosystem for the AI Era (in Chinese)](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html). *Study Times*, (006). ![Chinese](https://img.shields.io/badge/Chinese-red)
+Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Research Ecosystem for the AI Era](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html). *Study Times*, (006). ![Chinese](https://img.shields.io/badge/Chinese-red)
 
 <h3 style="color: #006400; text-decoration: underline;">(II) Ethical Governance and Education of S&T</h3>
 
