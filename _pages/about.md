@@ -1,15 +1,17 @@
 ---
-# 确保 permalink 是 /
+layout: default  # <--- 确保添加或修改为这一行
 permalink: /
-title: "Shuo Wang" # 英文标题
-excerpt: "A PhD Candidate in STS" # 英文摘要
-author_profile: true
+title: "Shuo Wang"
+excerpt: "A PhD Candidate in STS"
+author_profile: true # 确保这一行存在且为 true
 redirect_from:
   - /about/
   - /about.html
+# lang: en # （推荐为英文版添加）
 ---
 
-{% comment %} 移除了之前添加在页面内的语言切换链接，因为它将改到导航栏 {% endcomment %}
+{% comment %} 英文版页面内容... {% endcomment %}
+{{ content }} 
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
