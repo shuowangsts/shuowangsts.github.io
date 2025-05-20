@@ -29,6 +29,46 @@ lang: en # 标记此页面主要默认语言为英文
 
   As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel ten thousand miles."*** I enjoy reading diverse books, especially those outside my field that always bring me inspiration. I also love exploring the world with my own eyes and feet. Often, it’s the unexpected encounters more than the obvious scenery that hold the most significance.
 
+  {% comment %} ===== English Content Area - Other Sections ===== {% endcomment %}
+
+  <h2 id="en-professional-affiliations">🧑‍💼 Professional Affiliations and Service</h2>
+
+  Administrative Assistant at the Secretariat for the Special Task Force on S&T Ethics Education for Higher Education Institutions, Ministry of Education; <a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">Organizer of the AI for Science Workshop, Center for Science, Technology, and Society (STS), Tsinghua University</a>; [Session Chair for the 2025 Annual Meeting of the Society for Social Studies of Science (4S)](https://mp.weixin.qq.com/s/spWOHjz3XJ67EBt133DXRQ).
+
+  [Invited Academic Editor for *Studies on Science Popularization (科普研究)*](https://kpyj.ijournals.cn/ch/index.aspx); Anonymous reviewer for international journals including [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current), [Journal of Science Communication](https://jcom.sissa.it/), [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20), and [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences).
+
+  Undertook short-term visits and developed close academic collaborations with institutions including the [Center for Data-Driven Discovery (CD3), The University of Tokyo](https://cd3.ipmu.jp/people/), the [Beyond AI Institute, The University of Tokyo](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/), the [Department of Social and Human Sciences, Tokyo Institute of Technology](https://www.shs.ens.titech.ac.jp/) (formerly Tokyo University of Science, linked via provided URL), and the [AI Ethics Lab, Southeast University](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g).
+
+  <h2 id="en-awards-honors">🏅 Awards and Honors</h2>
+
+  <img src="/images/pcsi.png" alt="Highly Cited Scholar Logo" width="20" height="20"/> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, <a href="https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g">First Prize Papers (2) in the 2nd National "Frontiers of S&T Ethics" Essay Competition</a>, Excellent Paper Award at the 8th National Ethics Conference, and <a href="https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ">Third Prize for Excellent Paper at the 2021 Annual Meeting of the Chinese Public Administration Society (CPAS)</a>, among others.
+
+  <h2 id="en-teaching-experience">👨‍🏫 Teaching Experience</h2>
+
+  Principal Investigator for the <a href="https://mp.weixin.qq.com/s/IeHY6TTrAIKhKW4Tfc2Rpw">Tsinghua University Graduate Education and Teaching Reform Project: “A Survey Study on Graduate Students' S&T Ethics Literacy and Competence”</a>. Served as a Teaching Assistant for courses including *Digital Era and Public Governance*, *Innovation and S&T Development*, *Engineering Ethics*, and *Thesis Writing*. Published research papers on education and teaching reform in journals such as *The Educator (教育家)* and *Education Exploration (教育探索)*.
+
+  <h2 id="en-personal-honors">🏆 Personal Honors</h2>
+
+  During doctoral studies, received: <a href="https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw">National Scholarship (2022-2023)</a>, <a href="https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w">National Scholarship (2023-2024)</a>, Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship, among others.
+
+  During undergraduate studies, received: National Scholarship, Cyrus Tang Moral Education Scholarship, Guo Bingwen Scholarship, etc.; and honorary titles such as Jiangsu Provincial Outstanding Student Cadre, University Outstanding Graduate, University Outstanding Student Cadre, University Outstanding Youth League Cadre, University Merit Student, University Triple-A Student (Merit Student, Model Behavior, and Academic Excellence), and University Excellent Undergraduate Thesis.
+
+  <h2 id="en-student-work">🏢 Student Work and Leadership</h2>
+
+  During doctoral studies, served as a Member of the Tsinghua University Graduate Education Advisory Committee, Student Mentor at the Youth Research Center of Tsinghua University Communist Youth League Committee, and Deputy Secretary of the Graduate Student Youth League General Branch, School of Public Policy and Management, Tsinghua University.
+
+  During undergraduate studies, served as a Special Assistant to the President for Student Affairs and Secretary of the Youth League Branch, Southeast University.
+
+  <h2 id="en-social-practice">🏞️ Social Practice and Community Engagement</h2>
+
+  Summer 2023: Team Leader of the Tsinghua University Doctoral Student Social Practice Team in Xingqing District, Yinchuan, Ningxia, conducting research on “Pathways for Young E-commerce Talents to Participate in Rural Revitalization.”
+
+  Summer 2022: Participated in social practice at the Urban Planning & Design Institute of Shenzhen and research on “Comprehensive Management Strategies for Shenzhen Forestry Carbon Sink CCER Projects”; also joined the Tsinghua University School of Social Sciences social practice team to Xinchang, Zhejiang.
+
+  Winter 2020: Leader of the Southeast University “Zhishan Political Youth” Social Practice Team; the team was awarded the “May Fourth Youth Medal Collective” by Southeast University.
+
+  Summer 2018: Leader of the Southeast University “Wangxiangxing” Social Practice Team; the team was recognized as an “Excellent Team” in the Jiangsu Provincial “Three Rural Visits” Social Practice Program.
+
 # 📖 Educations
   
   <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
@@ -36,14 +76,12 @@ lang: en # 标记此页面主要默认语言为英文
   <img src="/images/ipmu.png" alt="The University of Tokyo" width="120" height="20"/> *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
 
   <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
-
- 📝 Publications 
  
 # 📝 Publications
 
 ### (I) Digital Society and Public Governance
 
-**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  [AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas (in Chinese)](URL_to_original_paper_if_available). *Journal of Xi'an Jiaotong University (Social Sciences)*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
+**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas (in Chinese). *Journal of Xi'an Jiaotong University (Social Sciences)*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
 
 **Shuo Wang**, Cheng Suo. (Online First). [Organized Disorder: The Accelerated Diffusion of Generative AI and Adaptation Dilemmas in Social Adoption—An Investigation Based on DeepSeek's "Deployment Competition" (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclGQnk6zXZeNLaCU-OaAWtzlZ5m-MD5UQvAGEs1v_6-qOO9FOsYNDpBw5vQbi2HAXBROiS8QZN-ASfagCdnrgL21C8J9ycfqPU=&uniplatform=NZKPT&language=CHS). *E-Government*. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
