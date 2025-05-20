@@ -51,6 +51,8 @@ Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Busines
 
 Tianyu Liu, **Shuo Wang**, Hongyu Liu. (2023). [Ethics of “Algocracy”: A New Dimension of Ethics of Organization in Digital Society](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=ZRBZ202306013&uniplatform=OVERSEA&v=nnsPi2CCv55cND0t1bWuNdmYt0ZQ9VhAsuq8VRQTQy2fuvkCwP980h0HD-uVMqdY). *Studies in Dialectics of Nature*, 06, 78-84.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/HTMGlnW2vWSC1_N5XlVO9w)
 
+
+
 ### (II) Ethical Governance and Education of S&T
 
 **Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
