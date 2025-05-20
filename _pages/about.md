@@ -27,13 +27,14 @@ lang: en # 标记此页面主要默认语言为英文
 
   <h2 id="en-educations">📖 Educations</h2>
   
-  <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
+<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
 
-  <img src="/images/ipmu.png" alt="The University of Tokyo" width="120" height="20"/> *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
+<img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - now*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
 
-  <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
+<img src="/images/sppm.png" alt="Tsinghua University School of Public Policy and Management" width="120" height="20"/> *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Public Administration
+
+<img src="/images/hum.png" alt="Southeast University School of Humanities" width="120" height="20"/> *2017.09 - 2021.06*, [School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A.**, Political Science and Administration
  
-
   <h2 id="en-professional-affiliations">🧑‍💼 Professional Affiliations and Service</h2>
 
   Administrative Assistant at the Secretariat for the Special Task Force on S&T Ethics Education for Higher Education Institutions, Ministry of Education; <a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">Organizer of the AI for Science Workshop, Center for Science, Technology, and Society (STS), Tsinghua University</a>; [Session Chair for the 2025 Annual Meeting of the Society for Social Studies of Science (4S)](https://mp.weixin.qq.com/s/spWOHjz3XJ67EBt133DXRQ).
