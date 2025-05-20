@@ -162,3 +162,14 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+{% comment %} ===== 英文内容区域结束 ===== {% endcomment %}
+</div>
+
+<div id="chinese-content" class="language-content" style="display: none;">
+  {% comment %} ====================================================== {% endcomment %}
+  {% comment %} =====         中文内容区域开始                     ===== {% endcomment %}
+  {% comment %} ===== 请将之前为你格式化好的完整中文内容粘贴在此 ===== {% endcomment %}
+  {% comment %} ====================================================== {% endcomment %}
+
+  
