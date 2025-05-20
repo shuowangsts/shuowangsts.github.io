@@ -152,6 +152,7 @@ author_profile: true
 ![北大核心](https://img.shields.io/badge/北大核心-green) 白雪锋,**王硕**,江汶澄,坂井猛,许浩. [城市路网演变中的权力互动:以明代以来的南京为例](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI57jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT)[J].热带地理,2025,45(03):435-448.
 
 刘鸿宇,**王硕**,文侃骁. [高等教育评估的国际研究现状与趋势——基于AEHE期刊的文献计量分析](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2023&filename=SEEK202304007&uniplatform=OVERSEA&v=YqgrZ6iNZxYcpqMVEW4def8xPiITbGwM8QgCveewYymJxHiVma5iAiHZsnrAL80s))[J].教育探索,2023,(04):30-36.
+
 王珏,**王硕**. ([推进政府伦理建设优势,增强实现“双胜利”保障](https://mdi.seu.edu.cn/2021/0323/c33170a365371/page.htm), 中共江苏省委智库专报, 2020, 27.
 
 王珏,**王硕**,洪岩璧,龙书芹. [江苏省灾疫伦理现状及灾后伦理建设对策](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm), 江苏省社科联决策参阅,2020, 14.
@@ -161,10 +162,17 @@ author_profile: true
 **科研项目：**
 
 主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
+
 开展中日科学技术与社会晴雨表调查（分别为中日课题组核心成员）。
+
 协助开展高校学生科技伦理素养与能力调查。
+
 参与国家社会科学基金重大项目“深入推进科技体制改革与完善国家治理体系研究”。
+
 参与国家社科基金重大项目“改革开放40年中国伦理道德数据库建设研究”。
+
 参与国家社科基金一般项目“社会主要矛盾转换条件下中国政治发展的生活政治路径研究”。
+
 主持国家级大学生创新创业训练计划“改革开放四十年民众信仰变迁的口述史研究”。
+
 参与江苏省大学生创新创业训练计划项目“伦理关怀视角下老年困难群体居家照料服务质量的实证研究”。
