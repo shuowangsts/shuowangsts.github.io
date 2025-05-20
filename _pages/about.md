@@ -53,9 +53,9 @@ lang: en # 标记此页面主要默认语言为英文
 
   <h2 id="en-personal-honors">🏆 Personal Honors</h2>
 
-  During doctoral studies, received: <a href="https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw">National Scholarship (2022-2023)</a>, <a href="https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w">National Scholarship (2023-2024)</a>, Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship, among others.
+  During **doctoral studies**, received: <a href="https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw">**National Scholarship**(2022-2023)</a>, <a href="https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w">**National Scholarship**(2023-2024)</a>, Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship, among others.
 
-  During undergraduate studies, received: National Scholarship, Cyrus Tang Moral Education Scholarship, Guo Bingwen Scholarship, etc.; and honorary titles such as Jiangsu Provincial Outstanding Student Cadre, University Outstanding Graduate, University Outstanding Student Cadre, University Outstanding Youth League Cadre, University Merit Student, University Triple-A Student (Merit Student, Model Behavior, and Academic Excellence), and University Excellent Undergraduate Thesis.
+  During **undergraduate studies**, received: **National Scholarship**, **Cyrus Tang Moral Education Scholarship**, Guo Bingwen Scholarship, etc.; and honorary titles such as **Jiangsu Provincial Outstanding Student Cadre**, University Outstanding Graduate, University Outstanding Student Cadre, University Outstanding Youth League Cadre, University Merit Student, University Triple-A Student (Merit Student, Model Behavior, and Academic Excellence), and University Excellent Undergraduate Thesis.
 
   <h2 id="en-student-work">🏢 Student Work and Leadership</h2>
 
@@ -65,13 +65,13 @@ lang: en # 标记此页面主要默认语言为英文
 
   <h2 id="en-social-practice">🏞️ Social Practice and Community Engagement</h2>
 
-  Summer 2023: Team Leader of the Tsinghua University Doctoral Student Social Practice Team in Xingqing District, Yinchuan, Ningxia, conducting research on “Pathways for Young E-commerce Talents to Participate in Rural Revitalization.”
+  **Summer 2023**: **Team Leader** of the Tsinghua University Doctoral Student Social Practice Team in Xingqing District, Yinchuan, Ningxia, conducting research on “Pathways for Young E-commerce Talents to Participate in Rural Revitalization.”
 
-  Summer 2022: Participated in social practice at the Urban Planning & Design Institute of Shenzhen and research on “Comprehensive Management Strategies for Shenzhen Forestry Carbon Sink CCER Projects”; also joined the Tsinghua University School of Social Sciences social practice team to Xinchang, Zhejiang.
+  **Summer 2022**: Participated in social practice at the Urban Planning & Design Institute of Shenzhen and research on “Comprehensive Management Strategies for Shenzhen Forestry Carbon Sink CCER Projects”; also joined the Tsinghua University School of Social Sciences social practice team to Xinchang, Zhejiang.
 
-  Winter 2020: Leader of the Southeast University “Zhishan Political Youth” Social Practice Team; the team was awarded the “May Fourth Youth Medal Collective” by Southeast University.
+  **Winter 2020**: **Leader** of the Southeast University “Zhishan Political Youth” Social Practice Team; the team was awarded the “May Fourth Youth Medal Collective” by Southeast University.
 
-  Summer 2018: Leader of the Southeast University “Wangxiangxing” Social Practice Team; the team was recognized as an “Excellent Team” in the Jiangsu Provincial “Three Rural Visits” Social Practice Program.
+  **Summer 2018**: **Leader** of the Southeast University “Wangxiangxing” Social Practice Team; the team was recognized as an “Excellent Team” in the Jiangsu Provincial “Three Rural Visits” Social Practice Program.
 
 <h2 id="en-publications">📝 Publications</h2>
 
@@ -211,13 +211,14 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   本科期间，曾担任东南大学校长学生事务特别助理、团支部书记。
 
   <h2>🏞️ 社会实践</h2>
-  2023年暑假，担任清华大学博士生实践宁夏银川兴庆支队队长，开展“青年电商人才参与乡村振兴路径研究”课题调研。
   
-  2022年暑假, 参与深圳市城市规划设计研究院社会实践及“深圳林业碳汇CCER综合管理策略研究”课题调研，同时参与清华大学社科学院赴浙江新昌实践支队。
+  **2023年暑假**，担任清华大学博士生实践宁夏银川兴庆支队**队长**，开展“青年电商人才参与乡村振兴路径研究”课题调研。
   
-  2020年寒假, 担任东南大学“至善政青年”社会实践团长,团队获评东南大学“五四青年奖章集体”。
+  **2022年暑假**, 参与深圳市城市规划设计研究院社会实践及“深圳林业碳汇CCER综合管理策略研究”课题调研，同时参与清华大学社科学院赴浙江新昌实践支队。
   
-  2018年暑假,担任东南大学“望乡行”社会实践队长,团队获评江苏省“三下乡”优秀支队。
+  **2020年寒假**, 担任东南大学“至善政青年”社会实践**团长**,团队获评东南大学“五四青年奖章集体”。
+  
+  **2018年暑假**,担任东南大学“望乡行”社会实践**队长**,团队获评江苏省“三下乡”优秀支队。
 
   <h2 id="zh-publications">📝 研究成果</h2>
  
