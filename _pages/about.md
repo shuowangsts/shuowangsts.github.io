@@ -159,13 +159,13 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   我叫王硕，非常高兴认识你！我是[清华大学](https://www.tsinghua.edu.cn/) [社会科学学院](https://www.sss.tsinghua.edu.cn/) [社会学系](https://www.soc.tsinghua.edu.cn/#)的一名博士候选人。
 
   <h2 id="zh-educations">📖 教育经历</h2>
-  <img src="/images/ipmu.png" alt="东京大学卡维里宇宙物理学与数学研究所" width="120" height="20"/> *2023.10至今*, [东京大学卡维里宇宙物理学与数学研究所](https://www.ipmu.jp), 联合培养博士生, 科学技术学专业
+*2023.10至今*, <img src="/images/ipmu.png" alt="东京大学卡维里宇宙物理学与数学研究所" width="120" height="20"/> [*东京大学卡维里宇宙物理学与数学研究所*](https://www.ipmu.jp), 联合培养博士生, 科学技术学专业
 
-  <img src="/images/sss.jpg" alt="清华大学社会科学学院" width="120" height="20"/> *2022.04至今*, [清华大学社会科学学院](https://www.sss.tsinghua.edu.cn/)，博士研究生, 社会学专业
+*2022.04至今*, <img src="/images/sss.jpg" alt="清华大学社会科学学院" width="120" height="20"/> [*清华大学社会科学学院*](https://www.sss.tsinghua.edu.cn/)，博士研究生, 社会学专业
 
-  <img src="/images/sppm.png" alt="清华大学公共管理学院" width="120" height="20"/> *2021.09—2022.04*, [清华大学公共管理学院](https://www.sppm.tsinghua.edu.cn/)，博士研究生, 公共管理专业
+*2021.09—2022.04*, <img src="/images/sppm.png" alt="清华大学公共管理学院" width="120" height="20"/> [*清华大学公共管理学院*](https://www.sppm.tsinghua.edu.cn/)，博士研究生, 公共管理专业
 
-  <img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> *2017.09—2021.06*, [东南大学人文学院](https://rwxy.seu.edu.cn/main.htm)，本科生, 政治学与行政学专业
+*2017.09—2021.06*, <img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> [*东南大学人文学院*](https://rwxy.seu.edu.cn/main.htm)，本科生, 政治学与行政学专业
 
   <h2>🧑‍💼 学术任职与社会服务</h2>
   担任教育部高校科技伦理教育专项工作秘书处行政助理、清华大学科学技术与社会研究中心AI for Science工作坊主理人、2025年国际科技的社会研究学会（4S）年会分论坛主席。《科普研究》特邀学术编辑，International Journal of Human-Computer Interaction、Journal of Science Communication、Expert Review of Ophthalmology、Risk Sciences等国际期刊的匿名审稿人。曾在东京大学数据驱动发现中心（CD3）、东京大学Beyond AI机构、东京科学大学社会人间学系、东南大学AI伦理实验室等机构短期访问并开展紧密学术合作网络。
