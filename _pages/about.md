@@ -177,7 +177,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 曾在[东京大学数据驱动发现中心（CD3）](https://cd3.ipmu.jp/people/)、[东京大学Beyond AI机构](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/)、[东京科学大学社会人间学系](https://www.shs.ens.titech.ac.jp/)、[东南大学AI伦理实验室](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g)等机构短期访问并开展紧密学术合作网络。
 
   <h2>🏅 学术荣誉</h2>
-<img src="images/pcsi.png" alt="高被引学者标志" width="20" height="20"/> 入选2024中国知网高被引学者TOP5%。研究成果曾获中国知网高PCSI论文和高被引论文、<a href="https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g">第二届“科技伦理前沿谈”全国征文大赛一类论文（2篇）</a>、第八届全国伦理学大会优秀论文、<a href="https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ">中国行政管理学会2021年会优秀论文三等奖</a>等。
+<img src="/images/pcsi.png" alt="高被引学者标志" width="20" height="20"/> 入选2024中国知网高被引学者TOP5%。研究成果曾获中国知网高PCSI论文和高被引论文、<a href="https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g">第二届“科技伦理前沿谈”全国征文大赛一类论文（2篇）</a>、第八届全国伦理学大会优秀论文、<a href="https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ">中国行政管理学会2021年会优秀论文三等奖</a>等。
 
   <h2>👨‍🏫 教学经历</h2>
 独立主持<a href="https://mp.weixin.qq.com/s/IeHY6TTrAIKhKW4Tfc2Rpw">清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”</a>。曾担任《数字时代与公共治理》、《创新与科技发展》、《工程伦理》、《论文写作》等课程助教。在《教育家》、《教育探索》期刊发表教育教学改革研究论文。
