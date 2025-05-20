@@ -35,9 +35,9 @@ lang: en # 标记此页面主要默认语言为英文
 
   Administrative Assistant at the Secretariat for the Special Task Force on S&T Ethics Education for Higher Education Institutions, Ministry of Education; <a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">Organizer of the AI for Science Workshop, Center for Science, Technology, and Society (STS), Tsinghua University</a>; [Session Chair for the 2025 Annual Meeting of the Society for Social Studies of Science (4S)](https://mp.weixin.qq.com/s/spWOHjz3XJ67EBt133DXRQ).
 
-  [Invited Academic Editor for *Studies on Science Popularization (科普研究)*](https://kpyj.ijournals.cn/ch/index.aspx); Anonymous reviewer for international journals including [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current), [Journal of Science Communication](https://jcom.sissa.it/), [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20), and [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences).
+  [Invited Academic Editor for *Studies on Science Popularization*](https://kpyj.ijournals.cn/ch/index.aspx); Anonymous reviewer for international journals including [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current), [Journal of Science Communication](https://jcom.sissa.it/), [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20), and [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences).
 
-  Undertook short-term visits and developed close academic collaborations with institutions including the [Center for Data-Driven Discovery (CD3), The University of Tokyo](https://cd3.ipmu.jp/people/), the [Beyond AI Institute, The University of Tokyo](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/), the [Department of Social and Human Sciences, Tokyo Institute of Technology](https://www.shs.ens.titech.ac.jp/) (formerly Tokyo University of Science, linked via provided URL), and the [AI Ethics Lab, Southeast University](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g).
+  Undertook short-term visits and developed close academic collaborations with institutions including the [Center for Data-Driven Discovery (CD3), The University of Tokyo](https://cd3.ipmu.jp/people/), the [Beyond AI Institute, The University of Tokyo](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/), the [Department of Social and Human Sciences, Tokyo Institute of Technology](https://www.shs.ens.titech.ac.jp/), and the [AI Ethics Lab, Southeast University](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g).
 
   <h2 id="en-awards-honors">🏅 Awards and Honors</h2>
 
@@ -45,7 +45,7 @@ lang: en # 标记此页面主要默认语言为英文
 
   <h2 id="en-teaching-experience">👨‍🏫 Teaching Experience</h2>
 
-  Principal Investigator for the <a href="https://mp.weixin.qq.com/s/IeHY6TTrAIKhKW4Tfc2Rpw">Tsinghua University Graduate Education and Teaching Reform Project: “A Survey Study on Graduate Students' S&T Ethics Literacy and Competence”</a>. Served as a Teaching Assistant for courses including *Digital Era and Public Governance*, *Innovation and S&T Development*, *Engineering Ethics*, and *Thesis Writing*. Published research papers on education and teaching reform in journals such as *The Educator (教育家)* and *Education Exploration (教育探索)*.
+  Principal Investigator for the <a href="https://mp.weixin.qq.com/s/IeHY6TTrAIKhKW4Tfc2Rpw">Tsinghua University Graduate Education and Teaching Reform Project: “A Survey Study on Graduate Students' S&T Ethics Literacy and Competence”</a>. Served as a Teaching Assistant for courses including *Digital Era and Public Governance*, *Innovation and S&T Development*, *Engineering Ethics*, and *Thesis Writing*. Published research papers on education and teaching reform in journals such as *The Educator* and *Education Exploration*.
 
   <h2 id="en-personal-honors">🏆 Personal Honors</h2>
 
@@ -69,7 +69,7 @@ lang: en # 标记此页面主要默认语言为英文
 
   Summer 2018: Leader of the Southeast University “Wangxiangxing” Social Practice Team; the team was recognized as an “Excellent Team” in the Jiangsu Provincial “Three Rural Visits” Social Practice Program.
 
-# 📖 Educations
+<h2 id="en-educations">📖 Educations</h2>
   
   <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
 
@@ -77,9 +77,9 @@ lang: en # 标记此页面主要默认语言为英文
 
   <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
  
-# 📝 Publications
+<h2 id="en-publications">📝 Publications</h2>
 
-### (I) Digital Society and Public Governance
+<h3 style="color: #006400;">(I) Digital Society and Public Governance</h3>
 
 **Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas (in Chinese). *Journal of Xi'an Jiaotong University (Social Sciences)*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
 
@@ -99,7 +99,7 @@ Tianyu Liu, **Shuo Wang**<sup>*</sup>. [Reinterpreting the “Digital Society”
 
 Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Research Ecosystem for the AI Era (in Chinese)](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html). *Study Times*, (006). ![Chinese](https://img.shields.io/badge/Chinese-red)
 
-### (II) Ethical Governance and Education of S&T
+<h3 style="color: #006400;">(II) Ethical Governance and Education of S&T</h3>
 
 **Shuo Wang**, Zhengfeng Li. (2023). [A Systemic View of the Development of S&T Ethics Education System: An Exploration Based on the Hexagonal Education Model](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh). *Studies in Science of Science*, 11, 1921-1927.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/AMI2CmGfC5jxPAK2MxTgeg)
 
