@@ -38,8 +38,7 @@ lang: en # 标记此页面主要默认语言为英文
   <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
 
  📝 Publications 
-  
-  {% comment %} 这是你原始的英文出版物列表，请确保内容是你希望在英文部分展示的 {% endcomment %}
+ 
  ![STS](https://img.shields.io/badge/STS-brightgreen) Xuefeng Bai, **Shuo Wang**, Wencheng Jiang, Takeru Sakai, Hao Xu. (2025). [Power Interactions in the Evolution of Urban Road Networks: A Case-Study of Nanjing since the Ming Dynasty](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI57jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT). *Tropical Geography*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
 ![Science Communication](https://img.shields.io/badge/Science%20of%20Science-brightgreen) Denghang Chen, **Shuo Wang**, Chen Wang. (2025). [How can social trust systems reduce public's AI risk perception? Empirical analysis based on the 2023 Science, Technology and Society barometer survey](https://kns.cnki.net/kcms2/article/abstract?v=cO3sNaablhggs3zobumHFIPpht3zYnqx3hVpZbOPCuZQl64u8w4diXU0f9-_Uq4SRgyo9nKxr-PvNFWOHvIfoQzxe6MW4wasqHI-WV7O4DWcL8U6BG-UoO_yRtKYfePXoDKmT2c-p-wIMipp3aBL2FkVxwDvlHZ4jxa_pRx7S1E=&uniplatform=NZKPT). *Studies in Science of Science*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
@@ -223,7 +222,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**,李正风. [科技伦理教育体系的系统发展观——基于“六边形教育模型”的探索](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWM05ziQcaeZKB0Mp7V2Cc9cmQafVz5Zdc1RyX5Xoo01VussotieMTOcvYjNtoF6ZGzTRgR3N9qb_nhdiJbfzPkL-7TwfJRrD8VSF-uPZATwYw==&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,2023,41(11):1921-1927. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-**王硕**,文侃骁,李正风. [中国式现代化视域下科技伦理治理的问题意识](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31u7p-AjU32alqKlyFVcq2Cm8XqWKMaYwqwK2AHs1vIhQLb0OC0cQUlzcLQqZ83aBxmuzDs4sOskf0fBtlc3hDwP44A186w-m_X4VdZ2vRg6UQ==&uniplatform=NZKPT&language=CHS)[J].*科技导报*,2024,42(06):69-78. <u>*《新华文摘》2024年第16期报刊文章篇目辑览收录。*</u> ![北大核心](https://img.shields.io/badge/北大核心-green)
+**王硕**,文侃骁,李正风. [中国式现代化视域下科技伦理治理的问题意识](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31u7p-AjU32alqKlyFVcq2Cm8XqWKMaYwqwK2AHs1vIhQLb0OC0cQUlzcLQqZ83aBxmuzDs4sOskf0fBtlc3hDwP44A186w-m_X4VdZ2vRg6UQ==&uniplatform=NZKPT&language=CHS)[J].*科技导报*,2024,42(06):69-78. <u>《新华文摘》2024年第16期报刊文章篇目辑览收录。</u> ![北大核心](https://img.shields.io/badge/北大核心-green)
 
 刘瑶瑶,**王硕**,李正风. [高校科技伦理课程建设：现状、挑战与对策——基于17所高校的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31sAeTvL3cdp5cJcXTEe9BO-eQodNBHpXCaVAswuvLxzstEDEJBtdtqfCNPd5C8WJPTZvTIZPVwOH5JnuGm_W2_LL0dyMjituWk2esHWGxijLw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2024,40(04):129-135. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -241,7 +240,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **Wang S**, Wang T, Yokoyama H M, Kinoshita S, Li Z. [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info)[J]. *Humanities and Social Sciences Communications*, 2025,12,353. ![中科院1区](https://img.shields.io/badge/中科院1区-yellow)
 
-**王硕**. [当代西方社会的科学平民主义：一种新的科学文化现象](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_-Y5sPKQowmLR1g-afv2BhDemf-tINKiLNxdsG_A3HRksnuOpWoHq9GGp0zu3J6-B_pGnKkRJLAff5ZQ_UvQ4v6RHbY82RhKtjJ0l4GkAuZQ==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法通讯*,2024,46(10):76-86. <u>*《新华文摘》2024年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+**王硕**. [当代西方社会的科学平民主义：一种新的科学文化现象](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_-Y5sPKQowmLR1g-afv2BhDemf-tINKiLNxdsG_A3HRksnuOpWoHq9GGp0zu3J6-B_pGnKkRJLAff5ZQ_UvQ4v6RHbY82RhKtjJ0l4GkAuZQ==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法通讯*,2024,46(10):76-86. <u>《新华文摘》2024年第24期报刊文章篇目辑览收录。</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 **王硕**,阎妍. [生成式人工智能时代下科技传播的机遇与挑战——基于科技传播体系的分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6sbcbgS2pdnrY2aM0J3fEJw5vnCzTvhaOcZzzpdaYVnl6hTxPt0LagRUyrPUqtkhmZoPlCMZc224qFelSl5DFF9fd6bhbOMYTYiyMn3ohJlm7mPusqLTHVxFAK8HfiL-7H9tvolQoSpGQ==&uniplatform=NZKPT&language=CHS)[J].*中国科技论坛*,2024,(09):134-143. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -283,7 +282,7 @@ Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Spec
 
 ### （五）其他研究领域
 
-**王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpTWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>*《新华文摘》2023年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+**王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpTWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>《新华文摘》2023年第24期报刊文章篇目辑览收录。</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 白雪锋,**王硕**,江汶澄,坂井猛,许浩. [城市路网演变中的权力互动:以明代以来的南京为例](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq9D9dH_Zrbm7BfegXSdzYrxohubKxC0Kt6Jl8G4eoLh38yQoC024frAGSEqZSJgpoxcZQxwJdQT3eoqklP2B2kkAnUOlNUbM9sQ70oKDoYXZg==&uniplatform=NZKPT&language=CHS)[J].*热带地理*,2025,45(03):435-448. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
