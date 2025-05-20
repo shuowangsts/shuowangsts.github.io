@@ -232,9 +232,9 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**. [基于学生需求导向的科技伦理教育思考](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1w2NMygnJCFS9Iqj4TDNKPu0NFwMgYGSFW2U3XJrIapLNXxVBHkrIKhCb1Os-Z3iqoRX8KTj5cgDDASVnm_yq_LEfNuIJuYL39SsUfb_tjhOIqWvHnK1knTA==&uniplatform=NZKPT&language=CHS)[J].*教育家*,2023,(26):9-10.
 
-杨斌,李正风.高等学校科技伦理教育研究报告[M].北京:高等教育出版社,2024:11-25.
+杨斌,李正风.[高等学校科技伦理教育研究报告](https://www.tsinghua.edu.cn/info/1182/111167.htm)[M].北京:高等教育出版社,2024:11-25.
 
-全国科学道德和学风建设宣讲教育领导小组.科学道德与学风建设读本[M].北京:中国科学技术出版社,2024:112-113,166-168.
+全国科学道德和学风建设宣讲教育领导小组.[科学道德与学风建设读本](https://book.douban.com/subject/36759315/)[M].北京:中国科学技术出版社,2024:112-113,166-168.
 
 ## （三）科技传播与科学文化
 
