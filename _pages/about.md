@@ -198,7 +198,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
  
   立足科学技术与社会（STS）视角，特别聚焦于人工智能和数字技术带来的深远社会变革。从多个维度考察了技术对社会各方面的影响，核心领域包括：数字社会形态的演变与公共治理的转型；科技伦理的理论基础、治理体系构建与教育实践；科技的社会文化属性、其传播机制与公众认知；以及人工智能在医疗健康领域的具体应用与伦理挑战。录用与刊发：1篇SSCI期刊论文，一作。18篇CSSCI期刊论文，其中9篇一作、5篇通讯。1篇CSSCI扩展期刊论文。7篇北大核心期刊论文，其中5篇一作、1篇通讯。在SCI、SSCI期刊以第一作者发表评论性文章若干。
 
-# （一）数字社会与公共治理
+### （一）数字社会与公共治理
 
 **王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -218,7 +218,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 武晨箫,**王硕**. [构建面向人工智能时代的科研生态](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html)[N].*学习时报*,2024-11-06(006).
 
-## （二）科技伦理治理与教育
+### （二）科技伦理治理与教育
 
 **王硕**,李正风. [科技伦理教育体系的系统发展观——基于“六边形教育模型”的探索](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWM05ziQcaeZKB0Mp7V2Cc9cmQafVz5Zdc1RyX5Xoo01VussotieMTOcvYjNtoF6ZGzTRgR3N9qb_nhdiJbfzPkL-7TwfJRrD8VSF-uPZATwYw==&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,2023,41(11):1921-1927. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -236,7 +236,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 全国科学道德和学风建设宣讲教育领导小组.科学道德与学风建设读本[M].北京:中国科学技术出版社,2024:112-113,166-168.
 
-## （三）科技传播与科学文化
+### （三）科技传播与科学文化
 
 **Wang S**, Wang T, Yokoyama H M, Kinoshita S, Li Z. ([Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info))[J]. *Humanities and Social Sciences Communications*, 2025,12,353. ![中科院1区](https://img.shields.io/badge/中科院1区-yellow)
 
@@ -256,7 +256,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **Wang S**, Liu T, Kinoshita S, Yokoyama H M. ([LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101))[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-## （四）医疗人工智能伦理
+### （四）医疗人工智能伦理
 
 **王硕**,王珏,文侃骁. [国际精准医学伦理研究：知识基础与热点前沿](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vQWgBpVDjBYdvTVleSwGGIpOl2Nf0dqN8jdetPw1o2npZcML1mKUW32JdJKy7clPq1JqmZDvV_qtgpaNRBUkOkltB9sCiR-mW-meNYsuRbUTaD7WurlwyC51ykbfI3qD7J_3kw_oaAlw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法通讯*,2022,44(07):83-93. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -280,7 +280,7 @@ Kinoshita S, **Wang S**, Kishimoto T. ([Uneven Distribution of Physicians by Spe
 
 文侃骁,**王硕**,张莉. [人类卫生健康共同体的热点前沿与研究展望——基于CiteSpace的知识图谱分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vw7zJh_NrJnBjOy0SxNQCw44WxFPzFiAr4UwpjDiez6KPn_bcJ9kmQ-D-9eVAn_yiwDVRlWgMfz3s7KeuIOpQkTWPPb1lT2JGIhpjsTFhlxYrnZu-4lnLemjt3qbPg70ys59jrakUKKQ==&uniplatform=NZKPT&language=CHS)[J].*中国卫生法制*,2023,31(03):45-53.
 
-## （五）其他研究领域
+### （五）其他研究领域
 
 **王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpTWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>*《新华文摘》2023年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
