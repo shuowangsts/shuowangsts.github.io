@@ -23,13 +23,16 @@ lang: en # 标记此页面主要默认语言为英文
 
   <span class='anchor' id='about-me'></span>
 
-  My name is Shuo Wang. It's a great pleasure to meet you! I am a PhD Candidate at the [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), China. I am the academic editor of [Studies on Science Popularization](https://kpyj.ijournals.cn/ch/index.aspx). I am also the anonymous reviewer of [Journal of Science Communication](https://jcom.sissa.it/)，[Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20).
+  My name is Shuo Wang. It's a great pleasure to meet you!
 
-  My major is **Sociology of Science**, commonly known as Science, Technology, and Society (**STS**). With Artificial Intelligence (AI) profoundly reshaping various aspects of society, I am very interested in **AI-related issues**, including **medical AI**, **public attitudes towards AI**, and **digital and algorithmic ethics**. Specifically, my PhD dissertation focuses on **AI for Science(AI4S)**. Additionally, as science and technology (S&T) increasingly influence society as a holistic force, I am also interested in **ELSI topics**, including **science communication**, **public trust in science**, and **ethical governance and education of S&T**. I warmly welcome any potential collaborators to join me in conducting research.
+  <h2 id="en-educations">📖 Educations</h2>
+  
+  <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
 
-  As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel ten thousand miles."*** I enjoy reading diverse books, especially those outside my field that always bring me inspiration. I also love exploring the world with my own eyes and feet. Often, it’s the unexpected encounters more than the obvious scenery that hold the most significance.
+  <img src="/images/ipmu.png" alt="The University of Tokyo" width="120" height="20"/> *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
 
-  {% comment %} ===== English Content Area - Other Sections ===== {% endcomment %}
+  <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
+ 
 
   <h2 id="en-professional-affiliations">🧑‍💼 Professional Affiliations and Service</h2>
 
@@ -69,14 +72,6 @@ lang: en # 标记此页面主要默认语言为英文
 
   Summer 2018: Leader of the Southeast University “Wangxiangxing” Social Practice Team; the team was recognized as an “Excellent Team” in the Jiangsu Provincial “Three Rural Visits” Social Practice Program.
 
-<h2 id="en-educations">📖 Educations</h2>
-  
-  <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
-
-  <img src="/images/ipmu.png" alt="The University of Tokyo" width="120" height="20"/> *2023.10 - 2024.09*, [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/ja), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Visiting student**, Science and Technology Studies
-
-  <img src="/images/hum.png" alt="Southeast University" width="120" height="20"/> *2017.09 - 2021.06*, [Department of Public Administration, School of Humanities](https://rwxy.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/english/main.htm), **B.A**, Political Science
- 
 <h2 id="en-publications">📝 Publications</h2>
 
 <h3 style="color: #006400; text-decoration: underline;">(I) Digital Society and Public Governance</h3>
