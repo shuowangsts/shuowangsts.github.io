@@ -1,24 +1,29 @@
 ---
-layout: default  # <--- 确保添加或修改为这一行
-permalink: /
+permalink: / # 确保这是根路径
 title: "Shuo Wang"
 excerpt: "A PhD Candidate in STS"
-author_profile: true # 确保这一行存在且为 true
-redirect_from:
-  - /about/
-  - /about.html
-# lang: en # （推荐为英文版添加）
+author_profile: true
+lang: en # 默认或主要语言
 ---
 
-{% comment %} 英文版页面内容... {% endcomment %}
-{{ content }} 
-
+{% comment %} Google Scholar Stats - 这部分逻辑保持不变 {% endcomment %}
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<div style="text-align: center; margin-bottom: 1.5em; padding-top: 1em;">
+  <button onclick="showLanguage('en')" id="btn-en" class="btn btn--info lang-btn active">English</button>
+  <button onclick="showLanguage('zh')" id="btn-zh" class="btn btn--info lang-btn">中文</button>
+</div>
+
+<div id="english-content" class="language-content" style="display: block;">
+
+ {% comment %} =========================================== {% endcomment %}
+  {% comment %} ===== 将你所有的英文 Markdown 内容粘贴在这里 ===== {% endcomment %}
+  {% comment %} =========================================== {% endcomment %}
 
 <span class='anchor' id='about-me'></span>
 
