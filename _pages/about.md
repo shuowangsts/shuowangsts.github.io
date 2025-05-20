@@ -197,10 +197,8 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   
   2018年暑假,担任东南大学“望乡行”社会实践队长,团队获评江苏省“三下乡”优秀支队。
 
-  <h2 id="zh-publications">📝 研究成果与发表</h2>
+  <h2 id="zh-publications">📝 研究成果</h2>
  
-  立足科学技术与社会（STS）视角，特别聚焦于人工智能和数字技术带来的深远社会变革，从多个维度考察了技术对社会各方面的影响。
-
 ### （一）数字社会与公共治理
 
 **王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
