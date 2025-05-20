@@ -216,7 +216,9 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
   **（二）科技伦理治理与教育**
 
-  #![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**.科技伦理研究的身份困境分析[J].自然辩证法通讯, 录用待刊发.
+  {% comment %}
+![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**.科技伦理研究的身份困境分析[J].自然辩证法通讯, 录用待刊发.
+{% endcomment %}
   
   ![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**,李正风. ([科技伦理教育体系的系统发展观——基于“六边形教育模型”的探索](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh))[J].科学学研究,2023,41(11):1921-1927.
   
@@ -253,7 +255,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   
   ![CSSCI](https://img.shields.io/badge/CSSCI-red) 阎妍,**王硕**<sup>*</sup>. ([公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml))[J].中国科技论坛,2025,(01):109-118.
   
- #![CSSCI扩展版](https://img.shields.io/badge/CSSCI扩展版-red) 罗昊雯,王拓,**王硕**.公众参与科学意愿的现状与差异研究——基于2023年科技与社会晴雨表调查的实证分析[J].科技管理研究,预计2025年第9期刊发.
+  {% comment %}![CSSCI扩展版](https://img.shields.io/badge/CSSCI扩展版-red) 罗昊雯,王拓,**王硕**.公众参与科学意愿的现状与差异研究——基于2023年科技与社会晴雨表调查的实证分析[J].科技管理研究,预计2025年第9期刊发.{% endcomment %}
   
   ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue) **Wang S**, Liu T, Kinoshita S, Yokoyama H M. ([LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101))[J]. Postgraduate Medical Journal, 2024: qgae101. 
   
