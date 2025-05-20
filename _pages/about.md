@@ -151,8 +151,8 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   
   <span class='anchor' id='about-me-zh'></span>
   
-  我叫王硕，非常高兴认识你！我是[清华大学](https://www.tsinghua.edu.cn/) [社会科学学院](https://www.sss.tsinghua.edu.cn/) [社会学系](https://www.soc.tsinghua.edu.cn/#)的一名博士候选人。
-
+  我叫王硕，非常高兴认识你！
+  
   <h2 id="zh-educations">📖 教育经历</h2>
   
 <img src="/images/ipmu.png" alt="东京大学卡维里宇宙物理学与数学研究所" width="120" height="20"/> *2023.10至今*,[东京大学卡维里宇宙物理学与数学研究所](https://www.ipmu.jp)，联合培养博士生，科学技术学专业
