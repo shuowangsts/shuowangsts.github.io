@@ -1,9 +1,7 @@
-# main links links
 main:
-  # ... 你其他的导航链接 ...
- - title: "English" # 新增的英文版链接
-    url: "/" # 指向网站根目录，将触发显示英文内容区域的逻辑
+  - title: "English"
+    url: "/"
   - title: "中文版"
-    url: "/#show-zh" # 保留此链接，用于触发JavaScript显示中文区域
+    url: "/#show-zh"
   - title: "CNKI中国知网"
     url: "https://kns.cnki.net/kcms2/author/detail?v=cp4X_-KT6XO5XvW3yQ4-3EyyfHQSFdlkBXQyTjrqVHQHNGelHf14gGHgm9FINzClrlimCxEhoNjoOfocRUF3D5nufHp2V7d3iZGfY41SSLgbOvqGqAiLvsEboMifLYRF&uniplatform=NZKPT&language=gb"
