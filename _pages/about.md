@@ -87,7 +87,7 @@ Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Busines
 
 Tianyu Liu, **Shuo Wang**, Hongyu Liu. (2023). [Ethics of “Algocracy”: A New Dimension of Ethics of Organization in Digital Society](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=ZRBZ202306013&uniplatform=OVERSEA&v=nnsPi2CCv55cND0t1bWuNdmYt0ZQ9VhAsuq8VRQTQy2fuvkCwP980h0HD-uVMqdY). *Studies in Dialectics of Nature*, 06, 78-84.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/HTMGlnW2vWSC1_N5XlVO9w)
 
-Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
+Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
 
 Tianyu Liu, **Shuo Wang**<sup>&#42;</sup>. (2025). [Ethics of Computing Power: A New Form of Digital Ethics in the Intelligent Era (in Chinese)](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS). *Studies in Dialectics of Nature*, 41(04), 89-98. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
@@ -128,7 +128,7 @@ Zhengfeng Li, **Shuo Wang**. (2022). [Digital Literacy, Data Rights and Digital 
 
 Denghang Chen, **Shuo Wang**, Chen Wang. (2025). [How can social trust systems reduce public's AI risk perception? Empirical analysis based on the 2023 Science, Technology and Society barometer survey](https://kns.cnki.net/kcms2/article/abstract?v=cO3sNaablhggs3zobumHFIPpht3zYnqx3hVpZbOPCuZQl64u8w4diXU0f9-_Uq4SRgyo9nKxr-PvNFWOHvIfoQzxe6MW4wasqHI-WV7O4DWcL8U6BG-UoO_yRtKYfePXoDKmT2c-p-wIMipp3aBL2FkVxwDvlHZ4jxa_pRx7S1E=&uniplatform=NZKPT). *Studies in Science of Science*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
-Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
+Yan Yan, **Shuo Wang**<sup>&#42;</sup>. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red)
 
 <h3 style="color: #006400; text-decoration: underline;">(IV) Medical AI Ethics</h3>
 
