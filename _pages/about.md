@@ -198,7 +198,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
  
   立足科学技术与社会（STS）视角，特别聚焦于人工智能和数字技术带来的深远社会变革。从多个维度考察了技术对社会各方面的影响，核心领域包括：数字社会形态的演变与公共治理的转型；科技伦理的理论基础、治理体系构建与教育实践；科技的社会文化属性、其传播机制与公众认知；以及人工智能在医疗健康领域的具体应用与伦理挑战。录用与刊发：1篇SSCI期刊论文，一作。18篇CSSCI期刊论文，其中9篇一作、5篇通讯。1篇CSSCI扩展期刊论文。7篇北大核心期刊论文，其中5篇一作、1篇通讯。在SCI、SSCI期刊以第一作者发表评论性文章若干。
 
-## （一）数字社会与公共治理
+# （一）数字社会与公共治理
 
 **王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -210,11 +210,11 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 刘天语,**王硕**,刘鸿宇. [“算法制”伦理：数字社会的组织伦理新向度](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWMwmB_gBe7MSuKumWDk2uZ4tihEgM9mKJnuBx4FtNf2q5I3OXROgitoMhguVfH2z9izKU-b5VHtJnli7lprVHikvUsZWPWRggRD1qXThxHIHw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2023,39(06):78-84. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [算法资本主义：智能时代的资本主义新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31tfEkbTP4Thr4mv7b7KDUoq7d1yVFst-R2GKxjt7pUNa8yXk6VDU7yLvAusC_UrbLHTldVzY-sFkX4Rve0zFjIWIanxMF9xORNkwdY0MhiZjQ==&uniplatform=NZKPT&language=CHS)[J].\*科学学研究\*,2024,42(12):21-29. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>&#42;</sup>. [算法资本主义：智能时代的资本主义新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31tfEkbTP4Thr4mv7b7KDUoq7d1yVFst-R2GKxjt7pUNa8yXk6VDU7yLvAusC_UrbLHTldVzY-sFkX4Rve0zFjIWIanxMF9xORNkwdY0MhiZjQ==&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,2024,42(12):21-29. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [算力伦理学：智能时代的数字伦理新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS)[J].\*自然辩证法研究\*,2025,41(04):89-98. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>&#42;</sup>. [算力伦理学：智能时代的数字伦理新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2025,41(04):89-98. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [重新理解“数字社会”：技术驱动下的社会形态重构](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS)[J].\*科学学研究\*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>&#42;</sup>. [重新理解“数字社会”：技术驱动下的社会形态重构](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS)[J].*科学学研究*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 武晨箫,**王硕**. [构建面向人工智能时代的科研生态](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html)[N].*学习时报*,2024-11-06(006).
 
@@ -232,9 +232,9 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**. [基于学生需求导向的科技伦理教育思考](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1w2NMygnJCFS9Iqj4TDNKPu0NFwMgYGSFW2U3XJrIapLNXxVBHkrIKhCb1Os-Z3iqoRX8KTj5cgDDASVnm_yq_LEfNuIJuYL39SsUfb_tjhOIqWvHnK1knTA==&uniplatform=NZKPT&language=CHS)[J].*教育家*,2023,(26):9-10.
 
-杨斌,李正风.[高等学校科技伦理教育研究报告](https://www.tsinghua.edu.cn/info/1182/111167.htm)[M].北京:高等教育出版社,2024:11-25.
+杨斌,李正风.高等学校科技伦理教育研究报告[M].北京:高等教育出版社,2024:11-25.
 
-全国科学道德和学风建设宣讲教育领导小组.[科学道德与学风建设读本](https://book.douban.com/subject/36759315/)[M].北京:中国科学技术出版社,2024:112-113,166-168.
+全国科学道德和学风建设宣讲教育领导小组.科学道德与学风建设读本[M].北京:中国科学技术出版社,2024:112-113,166-168.
 
 ## （三）科技传播与科学文化
 
@@ -248,11 +248,11 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**,阎妍,李正风. [生成式人工智能赋能科学普及：技术机遇、伦理风险与应对策略](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6sbcbgS2pdnrY2aM0J3fEJw5vnCzTvhaOfZ-pMosziubTrPes5tybbglK4KNQXVl7SqXxBtJE48UP-Hs_vE3SC3x3TTsaWLbNagklkEWheVWzXUpZPtl9xlmtIfUqYGJsBIueKP8It9xg==&uniplatform=NZKPT&language=CHS)[J].*科普研究*,2024,19(04):5-13+22+101. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
-李正风,**王硕**<sup>*</sup>. [数字素养、数据权利与数字伦理](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vQWgBpVDjBYdvTVleSwGGIpOl2Nf0dqN_zQhq2oMrPh5JMsiQ78ACumfdcHB6xPnTOieTOKGlMB5dJy_x61ZuM9PRqYB1I7aIXVnOAL_boz3I9sWv96Bf4seHbXm0-_T3RbJcu4uQK2A==&uniplatform=NZKPT&language=CHS)[J].*科普研究*,2022,17(06):8-14+108. ![北大核心](https://img.shields.io/badge/北大核心-green)
+李正风,**王硕**<sup>&#42;</sup>. [数字素养、数据权利与数字伦理](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vQWgBpVDjBYdvTVleSwGGIpOl2Nf0dqN_zQhq2oMrPh5JMsiQ78ACumfdcHB6xPnTOieTOKGlMB5dJy_x61ZuM9PRqYB1I7aIXVnOAL_boz3I9sWv96Bf4seHbXm0-_T3RbJcu4uQK2A==&uniplatform=NZKPT&language=CHS)[J].*科普研究*,2022,17(06):8-14+108. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
 陈登航,**王硕**,汪琛. [社会信任系统何以降低公众的人工智能风险感知？——基于2023年科技与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtreawK42xk2yh7AnBRn9FJ3jfIJP8RwmVrzH1nVBh-YUPK35HXXvvLoWsIjqdFPwmBxrYzT-OO6xJiNMWiTEWuEBjgeJlgBOneqqAf7SAQDY=&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-阎妍,**王硕**<sup>*</sup>. [公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_PEKCw5UmQfKN-5MNNHio2AnwSgShjFjfExSueuyTAgQI6T0KeYwcHbXqTBauMfbyH7wjLgTbsvAOD9HtRpzd-9MgqbAr9IX2FIgzwGMlC4g==&uniplatform=NZKPT&language=CHS)[J].\*中国科技论坛\*,2025,(01):109-118. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+阎妍,**王硕**<sup>&#42;</sup>. [公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_PEKCw5UmQfKN-5MNNHio2AnwSgShjFjfExSueuyTAgQI6T0KeYwcHbXqTBauMfbyH7wjLgTbsvAOD9HtRpzd-9MgqbAr9IX2FIgzwGMlC4g==&uniplatform=NZKPT&language=CHS)[J].*中国科技论坛*,2025,(01):109-118. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 **Wang S**, Liu T, Kinoshita S, Yokoyama H M. ([LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101))[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
@@ -282,7 +282,7 @@ Kinoshita S, **Wang S**, Kishimoto T. ([Uneven Distribution of Physicians by Spe
 
 ## （五）其他研究领域
 
-**王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpSWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>*《新华文摘》2023年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+**王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpTWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>*《新华文摘》2023年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 白雪锋,**王硕**,江汶澄,坂井猛,许浩. [城市路网演变中的权力互动:以明代以来的南京为例](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq9D9dH_Zrbm7BfegXSdzYrxohubKxC0Kt6Jl8G4eoLh38yQoC024frAGSEqZSJgpoxcZQxwJdQT3eoqklP2B2kkAnUOlNUbM9sQ70oKDoYXZg==&uniplatform=NZKPT&language=CHS)[J].*热带地理*,2025,45(03):435-448. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
@@ -293,6 +293,7 @@ Kinoshita S, **Wang S**, Kishimoto T. ([Uneven Distribution of Physicians by Spe
 王珏,**王硕**,洪岩璧,龙书芹. ([江苏省灾疫伦理现状及灾后伦理建设对策](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm)), *江苏省社科联决策参阅*,2020, 14.
 
 胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载*《乡贤、宗族与当代乡村文化建设研究》*（254-269页）. 广东世界图书出版公司. 2019.
+
   <h2>科研项目：</h2>
   主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
   
