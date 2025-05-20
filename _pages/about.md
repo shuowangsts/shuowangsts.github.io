@@ -43,6 +43,7 @@ lang: en # 标记此页面主要默认语言为英文
 
 ### (I) Digital Society and Public Governance
 
+
 Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
 
 Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Business Data Sharing to Government: Based on Fuzzy Set Qualitative Comparative Analysis](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBKX202401014&uniplatform=OVERSEA&v=or1wNpxgpPHH70ZzhV-u6LkZ4MKstVsBouyovpn-IdDLa3oC1B0cpQGV4Cac9V38). *Information Science*, 42(01):115-121+142.![Chinese](https://img.shields.io/badge/Chinese-red)
@@ -50,8 +51,6 @@ Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Busines
 **Shuo Wang**, Hongyu Liu. (2023). [Research on Cross-Departmental Sharing of Government Data From an Organizational Perspective](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBZZ202302019&uniplatform=OVERSEA&v=YAC9jqG6Ua3Pca62EdtIrq_AzOUZc9HNdEEOShtYCmrh6btAMqOE9bIaHxJL3k9E). *Journal of Intelligence*, 02, 126-133.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 Tianyu Liu, **Shuo Wang**, Hongyu Liu. (2023). [Ethics of “Algocracy”: A New Dimension of Ethics of Organization in Digital Society](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=ZRBZ202306013&uniplatform=OVERSEA&v=nnsPi2CCv55cND0t1bWuNdmYt0ZQ9VhAsuq8VRQTQy2fuvkCwP980h0HD-uVMqdY). *Studies in Dialectics of Nature*, 06, 78-84.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/HTMGlnW2vWSC1_N5XlVO9w)
-
-
 
 ### (II) Ethical Governance and Education of S&T
 
@@ -178,7 +177,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
   <h2 id="zh-publications">📝 研究成果</h2>
  
-### （一）数字社会与公共治理
+### 1、数字社会与公共治理
 
 **王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -198,7 +197,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 武晨箫,**王硕**. [构建面向人工智能时代的科研生态](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html)[N].*学习时报*,2024-11-06(006).
 
-### （二）科技伦理治理与教育
+### 2、科技伦理治理与教育
 
 **王硕**,李正风. [科技伦理教育体系的系统发展观——基于“六边形教育模型”的探索](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWM05ziQcaeZKB0Mp7V2Cc9cmQafVz5Zdc1RyX5Xoo01VussotieMTOcvYjNtoF6ZGzTRgR3N9qb_nhdiJbfzPkL-7TwfJRrD8VSF-uPZATwYw==&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,2023,41(11):1921-1927. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -216,7 +215,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 全国科学道德和学风建设宣讲教育领导小组.[科学道德与学风建设读本](https://book.douban.com/subject/36759315/)[M].北京:中国科学技术出版社,2024:112-113,166-168.
 
-### （三）科技传播与科学文化
+### 3、科技传播与科学文化
 
 **Wang S**, Wang T, Yokoyama H M, Kinoshita S, Li Z. [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info)[J]. *Humanities and Social Sciences Communications*, 2025,12,353. ![中科院1区](https://img.shields.io/badge/中科院1区-yellow)
 
@@ -236,7 +235,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **Wang S**, Liu T, Kinoshita S, Yokoyama H M. [LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101)[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-### （四）医疗人工智能伦理
+### 4、医疗人工智能伦理
 
 **王硕**,王珏,文侃骁. [国际精准医学伦理研究：知识基础与热点前沿](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vQWgBpVDjBYdvTVleSwGGIpOl2Nf0dqN8jdetPw1o2npZcML1mKUW32JdJKy7clPq1JqmZDvV_qtgpaNRBUkOkltB9sCiR-mW-meNYsuRbUTaD7WurlwyC51ykbfI3qD7J_3kw_oaAlw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法通讯*,2022,44(07):83-93. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -260,7 +259,7 @@ Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Spec
 
 文侃骁,**王硕**,张莉. [人类卫生健康共同体的热点前沿与研究展望——基于CiteSpace的知识图谱分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vw7zJh_NrJnBjOy0SxNQCw44WxFPzFiAr4UwpjDiez6KPn_bcJ9kmQ-D-9eVAn_yiwDVRlWgMfz3s7KeuIOpQkTWPPb1lT2JGIhpjsTFhlxYrnZu-4lnLemjt3qbPg70ys59jrakUKKQ==&uniplatform=NZKPT&language=CHS)[J].*中国卫生法制*,2023,31(03):45-53.
 
-### （五）其他研究领域
+### 5、其他研究领域
 
 **王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWOS6JyWA28Hjrca35WubOmCv6X-MuCIGPt3lCRdplAo70pRl-qpTWeMzMLiUKhg_G0wr_Lm6OgjxXsHIi_TvNn5gWb3KhJy1YHndfCUwB4D5A==&uniplatform=NZKPT&language=CHS)[J].*公共行政评论*,2023,16(04):178-194+200. <u>《新华文摘》2023年第24期报刊文章篇目辑览收录。</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
