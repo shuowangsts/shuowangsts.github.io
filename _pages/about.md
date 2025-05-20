@@ -226,9 +226,9 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 刘瑶瑶,**王硕**,李正风. [高校科技伦理课程建设：现状、挑战与对策——基于17所高校的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31sAeTvL3cdp5cJcXTEe9BO-eQodNBHpXCaVAswuvLxzstEDEJBtdtqfCNPd5C8WJPTZvTIZPVwOH5JnuGm_W2_LL0dyMjituWk2esHWGxijLw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2024,40(04):129-135. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-**Wang S**, Kinoshita S, Yokoyama H M. ([Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398))[J]. *Accountability in Research*, 2024, published online. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**, Kinoshita S, Yokoyama H M. [Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398)[J]. *Accountability in Research*, 2024, published online. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-**Wang S**, Yokoyama H M. ([Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info))[J]. *AI & SOCIETY*, 2024, published online.
+**Wang S**, Yokoyama H M. [Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info)[J]. *AI & SOCIETY*, 2024, published online.
 
 **王硕**. [基于学生需求导向的科技伦理教育思考](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1w2NMygnJCFS9Iqj4TDNKPu0NFwMgYGSFW2U3XJrIapLNXxVBHkrIKhCb1Os-Z3iqoRX8KTj5cgDDASVnm_yq_LEfNuIJuYL39SsUfb_tjhOIqWvHnK1knTA==&uniplatform=NZKPT&language=CHS)[J].*教育家*,2023,(26):9-10.
 
@@ -238,7 +238,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 ### （三）科技传播与科学文化
 
-**Wang S**, Wang T, Yokoyama H M, Kinoshita S, Li Z. ([Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info))[J]. *Humanities and Social Sciences Communications*, 2025,12,353. ![中科院1区](https://img.shields.io/badge/中科院1区-yellow)
+**Wang S**, Wang T, Yokoyama H M, Kinoshita S, Li Z. [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info)[J]. *Humanities and Social Sciences Communications*, 2025,12,353. ![中科院1区](https://img.shields.io/badge/中科院1区-yellow)
 
 **王硕**. [当代西方社会的科学平民主义：一种新的科学文化现象](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_-Y5sPKQowmLR1g-afv2BhDemf-tINKiLNxdsG_A3HRksnuOpWoHq9GGp0zu3J6-B_pGnKkRJLAff5ZQ_UvQ4v6RHbY82RhKtjJ0l4GkAuZQ==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法通讯*,2024,46(10):76-86. <u>*《新华文摘》2024年第24期报刊文章篇目辑览收录。*</u> ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -254,7 +254,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 阎妍,**王硕**<sup>&#42;</sup>. [公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_PEKCw5UmQfKN-5MNNHio2AnwSgShjFjfExSueuyTAgQI6T0KeYwcHbXqTBauMfbyH7wjLgTbsvAOD9HtRpzd-9MgqbAr9IX2FIgzwGMlC4g==&uniplatform=NZKPT&language=CHS)[J].*中国科技论坛*,2025,(01):109-118. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-**Wang S**, Liu T, Kinoshita S, Yokoyama H M. ([LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101))[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**, Liu T, Kinoshita S, Yokoyama H M. [LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101)[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
 ### （四）医疗人工智能伦理
 
@@ -266,17 +266,17 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 王珏,**王硕**. [公共健康的伦理博弈与道德边界——基于新冠肺炎疫情的实证研究](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6tZ5vgasyyEoEgJOXU14C4UkOALjxjV-cXT9pnver2N587YzP7d99sLJU_0pz3BoVkT87DR2SO1Xl9WC_K2VVauNfcsC_h4c6Q0R8-hVdzNDcg6YCFuiTU-_74RS8XKG-eep7DK8X_W6w==&uniplatform=NZKPT&language=CHS)[J].*探索与争鸣*,2020,(04):275-286+292. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-**Wang S**. ([Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888))[J]. *Radiology*,2025, 314(01): 1-2. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**. [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888)[J]. *Radiology*,2025, 314(01): 1-2. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-**Wang S**, Kinoshita S, Yokoyama H M. ([Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121))[J]. *Alimentary Pharmacology & Therapeutics*, 2024, 60(3): 417-417. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**, Kinoshita S, Yokoyama H M. [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121)[J]. *Alimentary Pharmacology & Therapeutics*, 2024, 60(3): 417-417. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-**Wang S**. ([Comment on: Predicting Glaucoma Before Onset Using a Large Language Model Chatbot](https://doi.org/10.1016/j.ajo.2024.06.035))[J]. *American Journal of Ophthalmology*, 2024, 266: 321. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**. [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model Chatbot](https://doi.org/10.1016/j.ajo.2024.06.035)[J]. *American Journal of Ophthalmology*, 2024, 266: 321. ![中科院1区TOP](https://img.shields.io/badge/中科院1区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-**Wang S**, Kinoshita S, Yokoyama H M. ([Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx))[J]. *Neurosurgery*, 2024, 95(5):p e151-e152. ![中科院2区TOP](https://img.shields.io/badge/中科院2区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**, Kinoshita S, Yokoyama H M. [Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx)[J]. *Neurosurgery*, 2024, 95(5):p e151-e152. ![中科院2区TOP](https://img.shields.io/badge/中科院2区TOP-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-**Wang S**. ([Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374))[J]. *Journal of Endourology*, 2024, published online. ![中科院2区](https://img.shields.io/badge/中科院2区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+**Wang S**. [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374)[J]. *Journal of Endourology*, 2024, published online. ![中科院2区](https://img.shields.io/badge/中科院2区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
-Kinoshita S, **Wang S**, Kishimoto T. ([Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129))[J]. *Journal of Korean Medical Science*, 2024, 39(12). ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
+Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129)[J]. *Journal of Korean Medical Science*, 2024, 39(12). ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
 文侃骁,**王硕**,张莉. [人类卫生健康共同体的热点前沿与研究展望——基于CiteSpace的知识图谱分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vw7zJh_NrJnBjOy0SxNQCw44WxFPzFiAr4UwpjDiez6KPn_bcJ9kmQ-D-9eVAn_yiwDVRlWgMfz3s7KeuIOpQkTWPPb1lT2JGIhpjsTFhlxYrnZu-4lnLemjt3qbPg70ys59jrakUKKQ==&uniplatform=NZKPT&language=CHS)[J].*中国卫生法制*,2023,31(03):45-53.
 
