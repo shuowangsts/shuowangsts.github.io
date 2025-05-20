@@ -298,7 +298,7 @@ Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Spec
   
   主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
   
-  开展中日科学技术与社会晴雨表调查（分别为中日课题组核心成员）。
+  开展[中日科学技术与社会晴雨表调查（分别为中日课题组核心成员）](https://member.ipmu.jp/hiromi.yokoyama/sts-baro.html)。
   
   协助开展高校学生科技伦理素养与能力调查。
   
