@@ -169,9 +169,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 <img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> *2017.09—2021.06*,[东南大学人文学院](https://rwxy.seu.edu.cn/main.htm)，本科生, 政治学与行政学专业
 
   <h2>🧑‍💼 学术任职与社会服务</h2>
-担任教育部高校科技伦理教育专项工作秘书处行政助理、
-
-[清华大学科学技术与社会研究中心AI for Science工作坊主理人](https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA), 2025年国际科技的社会研究学会年会分论坛主席。《科普研究》特邀学术编辑，International Journal of Human-Computer Interaction、Journal of Science Communication、Expert Review of Ophthalmology、Risk Sciences等国际期刊的匿名审稿人。曾在东京大学数据驱动发现中心、东京大学Beyond AI机构、东京科学大学社会人间学系、东南大学AI伦理实验室等机构短期访问并开展紧密学术合作网络。
+担任教育部高校科技伦理教育专项工作秘书处行政助理，<a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">清华大学科学技术与社会研究中心AI for Science工作坊主理人</a>，2025年国际科技的社会研究学会（4S）年会分论坛主席。《科普研究》特邀学术编辑，International Journal of Human-Computer Interaction、Journal of Science Communication、Expert Review of Ophthalmology、Risk Sciences等国际期刊的匿名审稿人。曾在东京大学数据驱动发现中心（CD3）、东京大学Beyond AI机构、东京科学大学社会人间学系、东南大学AI伦理实验室等机构短期访问并开展紧密学术合作网络。
 
   <h2>🏅 学术荣誉</h2>
   <img src="/images/pcsi.png" alt="高被引学者标志" width="20" height="20"/> 入选2024中国知网高被引学者TOP5%。研究成果曾获中国知网高PCSI论文和高被引论文、第二届“科技伦理前沿谈”全国征文大赛一类论文（2篇）、第八届全国伦理学大会优秀论文、中国行政管理学会2021年会优秀论文三等奖等。
