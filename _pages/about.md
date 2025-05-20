@@ -169,13 +169,12 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 <img src="/images/hum.png" alt="东南大学人文学院" width="120" height="20"/> *2017.09—2021.06*,[东南大学人文学院](https://rwxy.seu.edu.cn/main.htm)，本科生, 政治学与行政学专业
 
   <h2>🧑‍💼 学术任职与社会服务</h2>
-担任教育部高校科技伦理教育专项工作秘书处行政助理，<a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">清华大学科学技术与社会研究中心AI for Science工作坊主理人</a>，2025年国际科技的社会研究学会（4S）年会分论坛主席。《科普研究》特邀学术编辑，International Journal of Human-Computer Interaction、Journal of Science Communication、Expert Review of Ophthalmology、Risk Sciences等国际期刊的匿名审稿人。曾在东京大学数据驱动发现中心（CD3）、东京大学Beyond AI机构、东京科学大学社会人间学系、东南大学AI伦理实验室等机构短期访问并开展紧密学术合作网络。
-
-担任教育部高校科技伦理教育专项工作秘书处行政助理
-<a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">清华大学科学技术与社会研究中心AI for Science工作坊主理人</a>。
-* [2025年国际科技的社会研究学会（4S）年会分论坛主席](https://mp.weixin.qq.s/spWOHjz3XJ67EBt133DXRQ)
-* [《科普研究》特邀学术编辑](https://kpyj.ijournals.cn/ch/index.aspx)
-* 担任以下国际期刊匿名审稿人：
+  
+教育部高校科技伦理教育专项工作秘书处行政助理
+[清华大学科学技术与社会研究中心AI for Science工作坊主理人](https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA)
+[2025年国际科技的社会研究学会（4S）年会分论坛主席](https://mp.weixin.qq.s/spWOHjz3XJ67EBt133DXRQ)
+[《科普研究》特邀学术编辑](https://kpyj.ijournals.cn/ch/index.aspx)
+担任以下国际期刊匿名审稿人：
     * [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)
     * [Journal of Science Communication](https://jcom.sissa.it/)
     * [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20)
