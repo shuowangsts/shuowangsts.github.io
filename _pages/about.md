@@ -216,9 +216,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
   **（二）科技伦理治理与教育**
 
-  {% comment %}
-![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**.科技伦理研究的身份困境分析[J].自然辩证法通讯, 录用待刊发.
-{% endcomment %}
+'![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**.科技伦理研究的身份困境分析[J].自然辩证法通讯, 录用待刊发.'
   
   ![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**,李正风. ([科技伦理教育体系的系统发展观——基于“六边形教育模型”的探索](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh))[J].科学学研究,2023,41(11):1921-1927.
   
