@@ -29,7 +29,7 @@ lang: en # 标记此页面主要默认语言为英文
 
   As the ancient Chinese sages wisely said, ***"Read ten thousand books, travel ten thousand miles."*** I enjoy reading diverse books, especially those outside my field that always bring me inspiration. I also love exploring the world with my own eyes and feet. Often, it’s the unexpected encounters more than the obvious scenery that hold the most significance.
 
-  📖 Educations
+# 📖 Educations
   
   <img src="/images/sss.jpg" alt="Tsinghua University" width="120" height="20"/> *2021.09 - now*, [Department of Sociology](https://www.soc.tsinghua.edu.cn/#), [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD student**, Sociology of Science
 
@@ -39,110 +39,88 @@ lang: en # 标记此页面主要默认语言为英文
 
  📝 Publications 
  
- ![STS](https://img.shields.io/badge/STS-brightgreen) Xuefeng Bai, **Shuo Wang**, Wencheng Jiang, Takeru Sakai, Hao Xu. (2025). [Power Interactions in the Evolution of Urban Road Networks: A Case-Study of Nanjing since the Ming Dynasty](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI57jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT). *Tropical Geography*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
+# 📝 Publications
 
-![Science Communication](https://img.shields.io/badge/Science%20of%20Science-brightgreen) Denghang Chen, **Shuo Wang**, Chen Wang. (2025). [How can social trust systems reduce public's AI risk perception? Empirical analysis based on the 2023 Science, Technology and Society barometer survey](https://kns.cnki.net/kcms2/article/abstract?v=cO3sNaablhggs3zobumHFIPpht3zYnqx3hVpZbOPCuZQl64u8w4diXU0f9-_Uq4SRgyo9nKxr-PvNFWOHvIfoQzxe6MW4wasqHI-WV7O4DWcL8U6BG-UoO_yRtKYfePXoDKmT2c-p-wIMipp3aBL2FkVxwDvlHZ4jxa_pRx7S1E=&uniplatform=NZKPT). *Studies in Science of Science*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
+### (I) Digital Society and Public Governance
 
-![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) **Shuo Wang**, Tuo Wang, Hiromi M. Yokoyama, Shotaro Kinoshita, Zhengfeng Li. (2025). [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China
-](https://www.nature.com/articles/s41599-025-04685-3#article-info). *Humanities and Social Sciences Communications*,12,353. ![English](https://img.shields.io/badge/English-blue)
-
-![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen) Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
-
-![AI for Science Communication](https://img.shields.io/badge/Medical%20Communication-brightgreen) **Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-blue)
-
-![Algorithmic Ethics](https://img.shields.io/badge/Algorithmic%20Ethics-brightgreen)
 Tianyu Liu, **Shuo Wang**. (2024). [Algorithmic Capitalism: A New Form of Capitalism in the Age of Intelligence](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLASTDAY&filename=KXYJ20240306004&uniplatform=OVERSEA&v=208W2YPOeqaa_LEksnP5KFtSxUScQX2JAb2J9hiAnxChTLpdzz6zA_36_Zv6bSrZ). *Studies in Science of Science*, 42（12）：2465-2473.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ZU6b_sh2Iu-Nd-v2SlVFhg)
 
-![AI for Science Communication](https://img.shields.io/badge/AI%20for%20Science%20Communication-brightgreen)
-**Shuo Wang**, Yan Yan，Zhengfeng Li.(2024). [Empowering Science Popularization through Generative Artificial Intelligence：Technological Opportunities，Ethical Risks and Response Strategies](https://kpyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=202404001&flag=1). *Studies on Science Popularization*, 04, 5-13.![Chinese](https://img.shields.io/badge/Chinese-red) 
-
-![Science Communication](https://img.shields.io/badge/Science%20Communication-brightgreen)
-**Shuo Wang**. (2024). [Scientific-related Populism in Contemporary Western Society: A New Scientific Culture Phenomenon](https://jdn.ucas.ac.cn/english/browse/latestview/id/1058). *Studies in Dialectics of Nature*, 10, 76-86.![Chinese](https://img.shields.io/badge/Chinese-red) 
-
-![AI for Science Communication](https://img.shields.io/badge/AI%20for%20Science%20Communication-brightgreen)
-**Shuo Wang**, Yan Yan. (2024). [Opportunities and Challenges of Science and Technology Communication in the Era of Artificial Intelligence Generated Content:Analysis Based on Science and Technology Communication System
-](http://www.zgkjlt.org.cn/CN/abstract/abstract11767.shtml). *Forum on Science and Technology in China*, 09, 134-143.![Chinese](https://img.shields.io/badge/Chinese-red) 
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations
-](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Tianyu Liu, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
-
-![AI for Science](https://img.shields.io/badge/AI%20for%20Science-brightgreen)
-**Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not Be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Tianyu Liu, Chen Wang, Yaoyao Liu. (2024). [Exploring the Capabilities and Risk Delineation of Generative AI in Medical Applications](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01). *Medicine & Philosophy*, 12: 1-5.![Chinese](https://img.shields.io/badge/Chinese-red)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.![English](https://img.shields.io/badge/English-blue)
-
-![S&T Ethical Education](https://img.shields.io/badge/S%26T%20Ethical%20Education-brightgreen)
-Yaoyao Liu, **Shuo Wang**, Zhengfeng Li. (2024). [Scientific and Technological Ethics Curriculum Construction in Universities: The Status, Challenges and Countermeasures. An Empirical Research Based on 17 Universities](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZRBZ202404021&uniplatform=OVERSEA&v=GY4MfqbGDMwiJweAewwEaxpOCrPPgjez25ZzrUpx31DjDOk2DJ_SbmtDzIUey3fM). *Studies in Dialectics of Nature*, 04, 129-135.![Chinese](https://img.shields.io/badge/Chinese-red) [📰](https://mp.weixin.qq.com/s/p1NPxTpLUR_R79IF5LALPg)
-
-![S&T Ethical Governance](https://img.shields.io/badge/S%26T%20Ethical%20Governance-brightgreen)
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398). *Accountability in Research: Ethics Integrity and Policy*. Online First.![English](https://img.shields.io/badge/English-blue)
-
-![S&T Ethical Governance](https://img.shields.io/badge/S%26T%20Ethical%20Governance-brightgreen)
-**Shuo Wang**, Kanxiao Wen, Zhengfeng Li. (2024). [Problem Awareness of Ethical Governance of Science and Technology from the Perspective of Chinese Path to Modernization](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KJDB202406009&uniplatform=OVERSEA&v=4Yvzc3W0GxuBoD2f6lddgutedjDLdxeNlnkgypUI_q0k0rgMjl_tTm6sQXdc5syq). *Science & Technology Review*. 42(06):69-78.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/Ki8UYmiGcL93hCUObhf0Rg)
-
-![Medical Policy](https://img.shields.io/badge/Medical%20Policy-brightgreen)
-Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue)
-
-![Digital Governance](https://img.shields.io/badge/Digital%20Governance-brightgreen)
 Xiao Sun, **Shuo Wang**, Yan Xiao. (2024). [The Impact Path of Voluntary Business Data Sharing to Government: Based on Fuzzy Set Qualitative Comparative Analysis](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBKX202401014&uniplatform=OVERSEA&v=or1wNpxgpPHH70ZzhV-u6LkZ4MKstVsBouyovpn-IdDLa3oC1B0cpQGV4Cac9V38). *Information Science*, 42(01):115-121+142.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-![S&T Ethical Education](https://img.shields.io/badge/S%26T%20Ethical%20Education-brightgreen)
-**Shuo Wang**, Zhengfeng Li. (2023). [A Systemic View of the Development of S&T Ethics Education System: An Exploration Based on the Hexagonal Education Model](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh). *Studies in Science of Science*, 11, 1921-1927.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/AMI2CmGfC5jxPAK2MxTgeg)
-
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
-**Shuo Wang**, Kanxiao Wen, Min Zhang, Fei Su. (2023). [International Research Progress and Implications of Veterans Affairs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GGXZ202304011&uniplatform=OVERSEA&v=ly4knT-_89RGJ7F0Byx8JIJOedJRfpBaYS_kcgLHFfsAXUN1UoY0X6NqhuGyVyp4). *Journal of Public Administration(Chinese)*, 04, 178-194.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/txLbdE2qmm-3PJPWBA3pUA)
-
-![Digital Governance](https://img.shields.io/badge/Digital%20Governance-brightgreen)
 **Shuo Wang**, Hongyu Liu. (2023). [Research on Cross-Departmental Sharing of Government Data From an Organizational Perspective](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=QBZZ202302019&uniplatform=OVERSEA&v=YAC9jqG6Ua3Pca62EdtIrq_AzOUZc9HNdEEOShtYCmrh6btAMqOE9bIaHxJL3k9E). *Journal of Intelligence*, 02, 126-133.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-![Digital Ethics](https://img.shields.io/badge/Digital%20Ethics-brightgreen)
-**Shuo Wang**, Qiufu Li. (2023). [Digital Ethics: New Missions and Norms for Science Popularization in the Digital Transformation](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KUYT202303007&uniplatform=OVERSEA&v=vOQ2bm23jeoK5rhVyJCuikWlqDxYTxKpCnfdl50pkmPgUa73iVXNGMVVJXWCpZT1). *Studies on Science Popularization*, 03, 57-64.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/JX-kdlk9rqbaxkysRvflyg)
-
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Kanxiao Wen, Tianyu Liu, Hongyu Liu. (2023). [Ethical Risk and Governance Analysis of Medical Robots: Based on the 'Doctor-Patient-Robot' Analytical Framework](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML). *Medicine & Philosophy*, 23: 16-21.![Chinese](https://img.shields.io/badge/Chinese-red)
-
-![S&T Ethical Education](https://img.shields.io/badge/S%26T%20Ethical%20Education-brightgreen)
-**Shuo Wang**. (2023). [Reflections on Ethical Education in Science and Technology Based on Student Needs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=JYJA202326004&uniplatform=OVERSEA&v=xCn5me6bJ6dOwmRHJM_nXV1VPI7zFOAayG9uI9bbB6KlmlA2iirY4rGg2y9Y68GQ). *Educator*, 24, 09-10.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/1By4gQlfevZvuURutWxmNQ)
-
-![Algorithmic Ethics](https://img.shields.io/badge/Algorithmic%20Ethics-brightgreen)
 Tianyu Liu, **Shuo Wang**, Hongyu Liu. (2023). [Ethics of “Algocracy”: A New Dimension of Ethics of Organization in Digital Society](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=ZRBZ202306013&uniplatform=OVERSEA&v=nnsPi2CCv55cND0t1bWuNdmYt0ZQ9VhAsuq8VRQTQy2fuvkCwP980h0HD-uVMqdY). *Studies in Dialectics of Nature*, 06, 78-84.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/HTMGlnW2vWSC1_N5XlVO9w)
 
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
-Hongyu Liu, **Shuo Wang**, Kanxiao Wen. (2023). [Status and Trends of International Research on Assessment in Higher Education: A Bibliometric Analysis Based on AEHE Journals](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2023&filename=SEEK202304007&uniplatform=OVERSEA&v=YqgrZ6iNZxYcpqMVEW4def8xPiITbGwM8QgCveewYymJxHiVma5iAiHZsnrAL80s). *Education Exploration*, 04, 30-36.![Chinese](https://img.shields.io/badge/Chinese-red)
+### (II) Ethical Governance and Education of S&T
 
-![Medical Policy](https://img.shields.io/badge/Medical%20Policy-brightgreen)
-Kanxiao Wen, **Shuo Wang**, Li Zhang. (2023). [The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: Knowledge Mapping Analysis Based upon Citespace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G). *China Health Law*, 31(03):45-53.![Chinese](https://img.shields.io/badge/Chinese-red)
+**Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
 
-![AI for Medicine](https://img.shields.io/badge/AI%20for%20Medicine-brightgreen)
-**Shuo Wang**, Jue Wang, Kanxiao Wen. (2022). [International Research on Precision Medicine Ethics: Knowledge Base and Hot Frontiers](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZRBT202207011&uniplatform=OVERSEA&v=_lUfc2Vu3xsDSrYub9sBXI9T7868fLegQ1u2hlrp2OM60fPSZWLwASaEMk9tapNh). *Journal of Dialectics of Nature*, 07, 83-93.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ml7RSrccz6jfrleU_TlsLg)
+Yaoyao Liu, **Shuo Wang**, Zhengfeng Li. (2024). [Scientific and Technological Ethics Curriculum Construction in Universities: The Status, Challenges and Countermeasures. An Empirical Research Based on 17 Universities](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZRBZ202404021&uniplatform=OVERSEA&v=GY4MfqbGDMwiJweAewwEaxpOCrPPgjez25ZzrUpx31DjDOk2DJ_SbmtDzIUey3fM). *Studies in Dialectics of Nature*, 04, 129-135.![Chinese](https://img.shields.io/badge/Chinese-red) [📰](https://mp.weixin.qq.com/s/p1NPxTpLUR_R79IF5LALPg)
 
-![Digital Ethics](https://img.shields.io/badge/Digital%20Ethics-brightgreen)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398). *Accountability in Research: Ethics Integrity and Policy*. Online First.![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**, Kanxiao Wen, Zhengfeng Li. (2024). [Problem Awareness of Ethical Governance of Science and Technology from the Perspective of Chinese Path to Modernization](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KJDB202406009&uniplatform=OVERSEA&v=4Yvzc3W0GxuBoD2f6lddgutedjDLdxeNlnkgypUI_q0k0rgMjl_tTm6sQXdc5syq). *Science & Technology Review*. 42(06):69-78.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/Ki8UYmiGcL93hCUObhf0Rg)
+
+**Shuo Wang**, Zhengfeng Li. (2023). [A Systemic View of the Development of S&T Ethics Education System: An Exploration Based on the Hexagonal Education Model](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh). *Studies in Science of Science*, 11, 1921-1927.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/AMI2CmGfC5jxPAK2MxTgeg)
+
+**Shuo Wang**, Qiufu Li. (2023). [Digital Ethics: New Missions and Norms for Science Popularization in the Digital Transformation](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=KUYT202303007&uniplatform=OVERSEA&v=vOQ2bm23jeoK5rhVyJCuikWlqDxYTxKpCnfdl50pkmPgUa73iVXNGMVVJXWCpZT1). *Studies on Science Popularization*, 03, 57-64.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/JX-kdlk9rqbaxkysRvflyg)
+
+**Shuo Wang**. (2023). [Reflections on Ethical Education in Science and Technology Based on Student Needs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=JYJA202326004&uniplatform=OVERSEA&v=xCn5me6bJ6dOwmRHJM_nXV1VPI7zFOAayG9uI9bbB6KlmlA2iirY4rGg2y9Y68GQ). *Educator*, 24, 09-10.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/1By4gQlfevZvuURutWxmNQ)
+
 Zhengfeng Li, **Shuo Wang**. (2022). [Digital Literacy, Data Rights and Digital Ethics](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19293/j.cnki.1673-8357.2022.06.002). *Studies on Science Popularization*, 2022(06), 8-14.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ULMwaqu4UcnKarzETw4tGA)
 
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
+### (III) Science Communication and Scientific Culture
+
+Denghang Chen, **Shuo Wang**, Chen Wang. (2025). [How can social trust systems reduce public's AI risk perception? Empirical analysis based on the 2023 Science, Technology and Society barometer survey](https://kns.cnki.net/kcms2/article/abstract?v=cO3sNaablhggs3zobumHFIPpht3zYnqx3hVpZbOPCuZQl64u8w4diXU0f9-_Uq4SRgyo9nKxr-PvNFWOHvIfoQzxe6MW4wasqHI-WV7O4DWcL8U6BG-UoO_yRtKYfePXoDKmT2c-p-wIMipp3aBL2FkVxwDvlHZ4jxa_pRx7S1E=&uniplatform=NZKPT). *Studies in Science of Science*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
+
+**Shuo Wang**, Tuo Wang, Hiromi M. Yokoyama, Shotaro Kinoshita, Zhengfeng Li. (2025). [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info). *Humanities and Social Sciences Communications*,12,353. ![English](https://img.shields.io/badge/English-blue)
+
+Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
+
+**Shuo Wang**, Yan Yan，Zhengfeng Li.(2024). [Empowering Science Popularization through Generative Artificial Intelligence：Technological Opportunities，Ethical Risks and Response Strategies](https://kpyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=202404001&flag=1). *Studies on Science Popularization*, 04, 5-13.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
+**Shuo Wang**. (2024). [Scientific-related Populism in Contemporary Western Society: A New Scientific Culture Phenomenon](https://jdn.ucas.ac.cn/english/browse/latestview/id/1058). *Studies in Dialectics of Nature*, 10, 76-86.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
+**Shuo Wang**, Yan Yan. (2024). [Opportunities and Challenges of Science and Technology Communication in the Era of Artificial Intelligence Generated Content:Analysis Based on Science and Technology Communication System](http://www.zgkjlt.org.cn/CN/abstract/abstract11767.shtml). *Forum on Science and Technology in China*, 09, 134-143.![Chinese](https://img.shields.io/badge/Chinese-red) 
+
+**Shuo Wang**, Tianyu Liu, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
+
+### (IV) Medical AI Ethics
+
+**Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**, Tianyu Liu, Chen Wang, Yaoyao Liu. (2024). [Exploring the Capabilities and Risk Delineation of Generative AI in Medical Applications](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01). *Medicine & Philosophy*, 12: 1-5.![Chinese](https://img.shields.io/badge/Chinese-red)
+
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.![English](https://img.shields.io/badge/English-blue)
+
+Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue)
+
+**Shuo Wang**, Kanxiao Wen, Tianyu Liu, Hongyu Liu. (2023). [Ethical Risk and Governance Analysis of Medical Robots: Based on the 'Doctor-Patient-Robot' Analytical Framework](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML). *Medicine & Philosophy*, 23: 16-21.![Chinese](https://img.shields.io/badge/Chinese-red)
+
+Kanxiao Wen, **Shuo Wang**, Li Zhang. (2023). [The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: Knowledge Mapping Analysis Based upon Citespace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G). *China Health Law*, 31(03):45-53.![Chinese](https://img.shields.io/badge/Chinese-red)
+
+**Shuo Wang**, Jue Wang, Kanxiao Wen. (2022). [International Research on Precision Medicine Ethics: Knowledge Base and Hot Frontiers](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZRBT202207011&uniplatform=OVERSEA&v=_lUfc2Vu3xsDSrYub9sBXI9T7868fLegQ1u2hlrp2OM60fPSZWLwASaEMk9tapNh). *Journal of Dialectics of Nature*, 07, 83-93.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ml7RSrccz6jfrleU_TlsLg)
+
+### (V) Other Research Fields
+
+Xuefeng Bai, **Shuo Wang**, Wencheng Jiang, Takeru Sakai, Hao Xu. (2025). [Power Interactions in the Evolution of Urban Road Networks: A Case-Study of Nanjing since the Ming Dynasty](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI57jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT). *Tropical Geography*, Published online. ![Chinese](https://img.shields.io/badge/Chinese-red)
+
+**Shuo Wang**, Kanxiao Wen, Min Zhang, Fei Su. (2023). [International Research Progress and Implications of Veterans Affairs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GGXZ202304011&uniplatform=OVERSEA&v=ly4knT-_89RGJ7F0Byx8JIJOedJRfpBaYS_kcgLHFfsAXUN1UoY0X6NqhuGyVyp4). *Journal of Public Administration(Chinese)*, 04, 178-194.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/txLbdE2qmm-3PJPWBA3pUA)
+
+Hongyu Liu, **Shuo Wang**, Kanxiao Wen. (2023). [Status and Trends of International Research on Assessment in Higher Education: A Bibliometric Analysis Based on AEHE Journals](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2023&filename=SEEK202304007&uniplatform=OVERSEA&v=YqgrZ6iNZxYcpqMVEW4def8xPiITbGwM8QgCveewYymJxHiVma5iAiHZsnrAL80s). *Education Exploration*, 04, 30-36.![Chinese](https://img.shields.io/badge/Chinese-red)
+
 Jue Wang, **Shuo Wang**. (2020). [Ethics Game and Moral Boundary of Public Health: An Empirical Study Based on COVID-19](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=TSZM202004036&uniplatform=OVERSEA&v=8y9ypZv-jwqZeqagkzTnLA_d1ZbJB1IwNh7PpySt9FLn4dW_lL1N67c4UxauID1-). *Exploration and Free Views*, 04, 275-286.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
 Jue Wang, **Shuo Wang**. (2020). [Promoting the Advantages of Government Ethics to Enhance the Guarantee of "Double Victory"](https://mdi.seu.edu.cn/2021/0323/c33170a365371/page.htm). *Jiangsu Province Think Tank Network*, 27.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
 Jue Wang, **Shuo Wang**, et al. (2020). [Current Ethical Situation of COVID19 in Jiangsu Province and Countermeasures for Post-Epidemic Ethical Construction](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm). *Decision Making Reference for Jiangsu Provincial Social Science Federation*, 14.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-![Public Policy](https://img.shields.io/badge/Public%20Policy-brightgreen)
 Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elites in Grassroots Governance in Rural Revitalization: A Case Study of Three Places in Jiangsu Province](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true). In A Study of Sages, Clans and Contemporary Rural Cultural Construction (pp. 254-269). World Publishing Corporation Guangdong Branch.![Chinese](https://img.shields.io/badge/Chinese-red)
 
 </div>
