@@ -79,7 +79,7 @@ lang: en # 标记此页面主要默认语言为英文
  
 <h2 id="en-publications">📝 Publications</h2>
 
-<h3 style="color: #006400;">(I) Digital Society and Public Governance</h3>
+<h3 style="color: #006400; text-decoration: underline;">(I) Digital Society and Public Governance</h3>
 
 **Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas (in Chinese). *Journal of Xi'an Jiaotong University (Social Sciences)*. ![Chinese](https://img.shields.io/badge/Chinese-red) Online First.
 
@@ -99,7 +99,7 @@ Tianyu Liu, **Shuo Wang**<sup>*</sup>. [Reinterpreting the “Digital Society”
 
 Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Research Ecosystem for the AI Era (in Chinese)](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html). *Study Times*, (006). ![Chinese](https://img.shields.io/badge/Chinese-red)
 
-<h3 style="color: #006400;">(II) Ethical Governance and Education of S&T</h3>
+<h3 style="color: #006400; text-decoration: underline;">(II) Ethical Governance and Education of S&T</h3>
 
 **Shuo Wang**, Zhengfeng Li. (2023). [A Systemic View of the Development of S&T Ethics Education System: An Exploration Based on the Hexagonal Education Model](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KXYJ202311001&uniplatform=OVERSEA&v=NJR5ifoDEnVGLK0rlTnXbbOQwThPfmrelL09xR0ku2rS0Oz_1opuGJvQSagp3Kxh). *Studies in Science of Science*, 11, 1921-1927.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/AMI2CmGfC5jxPAK2MxTgeg)
 
@@ -114,7 +114,7 @@ Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Resea
 Yaoyao Liu, **Shuo Wang**, Zhengfeng Li. (2024). [Scientific and Technological Ethics Curriculum Construction in Universities: The Status, Challenges and Countermeasures. An Empirical Research Based on 17 Universities](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZRBZ202404021&uniplatform=OVERSEA&v=GY4MfqbGDMwiJweAewwEaxpOCrPPgjez25ZzrUpx31DjDOk2DJ_SbmtDzIUey3fM). *Studies in Dialectics of Nature*, 04, 129-135.![Chinese](https://img.shields.io/badge/Chinese-red) [📰](https://mp.weixin.qq.com/s/p1NPxTpLUR_R79IF5LALPg)
 
 
-### (III) Science Communication and Scientific Culture
+<h3 style="color: #006400; text-decoration: underline;">(III) Science Communication and Scientific Culture</h3>
 
 **Shuo Wang**, Tuo Wang, Hiromi M. Yokoyama, Shotaro Kinoshita, Zhengfeng Li. (2025). [Beyond a Single Pole: Exploring the Nuanced Coexistence of Scientific Elitism and Populism in China](https://www.nature.com/articles/s41599-025-04685-3#article-info). *Humanities and Social Sciences Communications*,12,353. ![English](https://img.shields.io/badge/English-blue)
 
@@ -134,7 +134,7 @@ Denghang Chen, **Shuo Wang**, Chen Wang. (2025). [How can social trust systems r
 
 Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differences in Public Recognition of Scientists' Spirit: Empirical Analysis Based on the 2023 STS Barometer Survey](http://www.zgkjlt.org.cn/CN/abstract/abstract11843.shtml). *Forum on Science and Technology in China*, 2025(01): 109-118. ![Chinese](https://img.shields.io/badge/Chinese-red) 
 
-### (IV) Medical AI Ethics
+<h3 style="color: #006400; text-decoration: underline;">(IV) Medical AI Ethics</h3>
 
 **Shuo Wang**, Jue Wang, Kanxiao Wen. (2022). [International Research on Precision Medicine Ethics: Knowledge Base and Hot Frontiers](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZRBT202207011&uniplatform=OVERSEA&v=_lUfc2Vu3xsDSrYub9sBXI9T7868fLegQ1u2hlrp2OM60fPSZWLwASaEMk9tapNh). *Journal of Dialectics of Nature*, 07, 83-93.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ml7RSrccz6jfrleU_TlsLg)
 
@@ -154,10 +154,9 @@ Yan Yan, **Shuo Wang**. (2025). [Research on the Current Status and Group Differ
 
 Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue)
 
-
 Kanxiao Wen, **Shuo Wang**, Li Zhang. (2023). [The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: Knowledge Mapping Analysis Based upon Citespace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G). *China Health Law*, 31(03):45-53.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-### (V) Other Research Fields
+<h3 style="color: #006400; text-decoration: underline;">(V) Other Research Fields</h3>
 
 **Shuo Wang**, Kanxiao Wen, Min Zhang, Fei Su. (2023). [International Research Progress and Implications of Veterans Affairs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GGXZ202304011&uniplatform=OVERSEA&v=ly4knT-_89RGJ7F0Byx8JIJOedJRfpBaYS_kcgLHFfsAXUN1UoY0X6NqhuGyVyp4). *Journal of Public Administration(Chinese)*, 04, 178-194.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/txLbdE2qmm-3PJPWBA3pUA)
 
