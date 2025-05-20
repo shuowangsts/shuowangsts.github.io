@@ -1,12 +1,18 @@
 ---
+# 确保 permalink 是 /
 permalink: /
-title: "Shuo Wang"
-excerpt: "A PhD Candidate in STS"
+title: "Shuo Wang" # 英文标题
+excerpt: "A PhD Candidate in STS" # 英文摘要
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="text-align: right; margin-bottom: 10px;">
+  <a href="/zh/">中文</a>
+</div>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
