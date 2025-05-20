@@ -1,5 +1,4 @@
 ---
-layout: default  # <--- 确保添加或修改为这一行，与英文版一致
 permalink: /zh/
 title: "王硕"
 excerpt: "STS领域博士候选人"
