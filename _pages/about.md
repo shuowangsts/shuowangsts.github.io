@@ -101,9 +101,9 @@ Chenxiao Wu, **Shuo Wang**. (2024, November 6). [Constructing a Scientific Resea
 
 **Shuo Wang**, Kanxiao Wen, Zhengfeng Li. (2024). [Problem Awareness of Ethical Governance of Science and Technology from the Perspective of Chinese Path to Modernization](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=KJDB202406009&uniplatform=OVERSEA&v=4Yvzc3W0GxuBoD2f6lddgutedjDLdxeNlnkgypUI_q0k0rgMjl_tTm6sQXdc5syq). *Science & Technology Review*. 42(06):69-78.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/Ki8UYmiGcL93hCUObhf0Rg)
 
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398). *Accountability in Research: Ethics Integrity and Policy*. Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Write Your Paper on the Motherland?](https://doi.org/10.1080/08989621.2024.2347398). *Accountability in Research: Ethics Integrity and Policy*. Online First.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-**Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Hiromi M. Yokoyama. (2024). [Fight Fire with Fire: Why Not be More Tolerant of ChatGPT in Academic Writing?](https://link.springer.com/article/10.1007/s00146-024-02025-8#article-info) *AI & Society*. 2024, Online First. ![English](https://img.shields.io/badge/English-blue) 
 
 **Shuo Wang**. (2023). [Reflections on Ethical Education in Science and Technology Based on Student Needs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=JYJA202326004&uniplatform=OVERSEA&v=xCn5me6bJ6dOwmRHJM_nXV1VPI7zFOAayG9uI9bbB6KlmlA2iirY4rGg2y9Y68GQ). *Educator*, 24, 09-10.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/1By4gQlfevZvuURutWxmNQ)
 
@@ -122,7 +122,7 @@ Yaoyao Liu, **Shuo Wang**, Zhengfeng Li. (2024). [Scientific and Technological E
 
 **Shuo Wang**, Yan Yan，Zhengfeng Li.(2024). [Empowering Science Popularization through Generative Artificial Intelligence：Technological Opportunities，Ethical Risks and Response Strategies](https://kpyj.ijournals.cn/ch/reader/view_abstract.aspx?file_no=202404001&flag=1). *Studies on Science Popularization*, 04, 5-13.![Chinese](https://img.shields.io/badge/Chinese-red) 
 
-**Shuo Wang**, Tianyu Liu, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Tianyu Liu, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101). *Postgraduate Medical Journal*, Online First.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
 Zhengfeng Li, **Shuo Wang**. (2022). [Digital Literacy, Data Rights and Digital Ethics](https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19293/j.cnki.1673-8357.2022.06.002). *Studies on Science Popularization*, 2022(06), 8-14.![Chinese](https://img.shields.io/badge/Chinese-red)[📰](https://mp.weixin.qq.com/s/ULMwaqu4UcnKarzETw4tGA)
 
@@ -138,17 +138,17 @@ Yan Yan, **Shuo Wang**<sup>&#42;</sup>. (2025). [Research on the Current Status 
 
 **Shuo Wang**, Tianyu Liu, Chen Wang, Yaoyao Liu. (2024). [Exploring the Capabilities and Risk Delineation of Generative AI in Medical Applications](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01). *Medicine & Philosophy*, 12: 1-5.![Chinese](https://img.shields.io/badge/Chinese-red)
 
-**Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**. (2025). [Before We Trust: Concerns for Using ChatGPT in Medical Communication](https://pubs.rsna.org/doi/10.1148/radiol.241888). *Radiology*, 314(01). ![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Letter: Performance of ChatGPT and GPT-4 on Neurosurgery Written Board Examinations](https://journals.lww.com/neurosurgery/fulltext/9900/letter__performance_of_chatgpt_and_gpt_4_on.1329.aspx). *Neurosurgery*, Online First.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-**Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**.(2024). [Comment on: Predicting Glaucoma Before Onset Using a Large Language Model](https://doi.org/10.1016/j.ajo.2024.06.035). *American Journal of Ophthalmology*, Online First.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**, Shotaro Kinoshita, Hiromi M. Yokoyama. (2024). [Shifting Focus—From ChatGPT to Specialised Medical LLMs](https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18121). *Alimentary Pharmacology & Therapeutics*, 60, 3, 417-417.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-**Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.![English](https://img.shields.io/badge/English-blue)
+**Shuo Wang**. (2024). [Beyond ChatGPT: It Is Time to Focus More on Specialized Medical LLMs](https://www.liebertpub.com/doi/10.1089/end.2024.0374). *Journal of Endourology*. Online First.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
-Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue)
+Shotaro Kinoshita, **Shuo Wang**, Taishiro Kishimoto. (2024). [Uneven Distribution of Physicians by Specialty in East Asia](https://jkms.org/DOIx.php?id=10.3346/jkms.2024.39.e129). *Journal of Korean Medical Science*. 39(12):e129.![English](https://img.shields.io/badge/English-blue) ![Letter](https://img.shields.io/badge/Letter-green)
 
 Kanxiao Wen, **Shuo Wang**, Li Zhang. (2023). [The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: Knowledge Mapping Analysis Based upon Citespace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G). *China Health Law*, 31(03):45-53.![Chinese](https://img.shields.io/badge/Chinese-red)
 
