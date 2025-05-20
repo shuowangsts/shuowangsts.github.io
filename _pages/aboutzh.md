@@ -2,8 +2,9 @@
 permalink: /zh/
 title: "王硕" # 中文标题
 excerpt: "STS领域博士候选人" # 中文摘要
-author_profile: true
-# lang: zh # 可选
+author_profile: true # <--- 确保这一行存在且为 true，与英文版一致
+# lang: zh # （可选，但推荐为多语言规范性添加）
+# 不要在这里指定 layout，让它尝试使用默认布局
 ---
 
 我叫王硕，非常高兴认识你！我是[清华大学](https://www.tsinghua.edu.cn/) [社会科学学院](https://www.sss.tsinghua.edu.cn/) [社会学系](https://www.soc.tsinghua.edu.cn/#)的一名博士候选人。
