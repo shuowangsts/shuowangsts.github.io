@@ -197,7 +197,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
  
   立足科学技术与社会（STS）视角，特别聚焦于人工智能和数字技术带来的深远社会变革。从多个维度考察了技术对社会各方面的影响，核心领域包括：数字社会形态的演变与公共治理的转型；科技伦理的理论基础、治理体系构建与教育实践；科技的社会文化属性、其传播机制与公众认知；以及人工智能在医疗健康领域的具体应用与伦理挑战。录用与刊发：1篇SSCI期刊论文，一作。18篇CSSCI期刊论文，其中9篇一作、5篇通讯。1篇CSSCI扩展期刊论文。7篇北大核心期刊论文，其中5篇一作、1篇通讯。在SCI、SSCI期刊以第一作者发表评论性文章若干。
 
-  ## （一）数字社会与公共治理
+## （一）数字社会与公共治理
 
 **王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].西安交通大学学报（社会科学版）, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
@@ -259,7 +259,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 **王硕**,王珏,文侃骁. ([国际精准医学伦理研究：知识基础与热点前沿](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZRBT202207011&uniplatform=OVERSEA&v=_lUfc2Vu3xsDSrYub9sBXI9T7868fLegQ1u2hlrp2OM60fPSZWLjASaEMk9tapNh))[J].自然辩证法通讯,2022,44(07):83-93. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-**王硕**,文侃骁,刘天语,等.([医疗机器人的伦理风险与治理探析——基于“医-患-机”分析框架] (https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML))[J].医学与哲学,2023,44(23):16-21. ![北大核心](https://img.shields.io/badge/北大核心-green)
+**王硕**,文侃骁,刘天语,等. ([医疗机器人的伦理风险与治理探析——基于“医-患-机”分析框架](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2023.23.04?viewType=HTML))[J].医学与哲学,2023,44(23):16-21. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
 **王硕**,刘天语,汪琛,刘瑶瑶. ([试论生成式人工智能的医疗应用能力与风险边界](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2024.12.01))[J].医学与哲学,2024,45(12):1-5. ![北大核心](https://img.shields.io/badge/北大核心-green)
 
@@ -291,7 +291,7 @@ Kinoshita S, **Wang S**, Kishimoto T. ([Uneven Distribution of Physicians by Spe
 
 王珏,**王硕**,洪岩璧,龙书芹. ([江苏省灾疫伦理现状及灾后伦理建设对策](https://mdi.seu.edu.cn/2021/0323/c33503a365370/page.htm)), 江苏省社科联决策参阅,2020, 14.
 
-胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载《乡贤、宗族与当代乡村文化建设研究》（254-269页）. 广东世界图书出版公司. 2019.
+胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E%B9%91%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载《乡贤、宗族与当代乡村文化建设研究》（254-269页）. 广东世界图书出版公司. 2019.
 
   <h2>科研项目：</h2>
   主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
