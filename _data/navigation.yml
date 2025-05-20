@@ -1,6 +1,4 @@
 main:
-  - title: "English"
-    url: "/"
   - title: "中文版"
     url: "/#show-zh"
   - title: "CNKI中国知网"
