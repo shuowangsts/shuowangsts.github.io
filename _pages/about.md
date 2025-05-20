@@ -172,7 +172,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   
 担任教育部高校科技伦理教育专项工作秘书处行政助理、<a href="https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA">清华大学科学技术与社会研究中心AI for Science工作坊主理人</a>、[2025年国际科技的社会研究学会（4S）年会分论坛主席](https://mp.weixin.qq.com/s/spWOHjz3XJ67EBt133DXRQ)。
 
-[《科普研究》特邀学术编辑](https://kpyj.ijournals.cn/ch/index.aspx)，[International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)、[Journal of Science Communication](https://jcom.sissa.it/)、[Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20)、[Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences)等国际期刊的匿名审稿人。
+担任[《科普研究》特邀学术编辑](https://kpyj.ijournals.cn/ch/index.aspx)，[International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)、[Journal of Science Communication](https://jcom.sissa.it/)、[Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20)、[Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences)等国际期刊的匿名审稿人。
 
 曾在[东京大学数据驱动发现中心（CD3）](https://cd3.ipmu.jp/people/)、[东京大学Beyond AI机构](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/)、[东京科学大学社会人间学系](https://www.shs.ens.titech.ac.jp/)、[东南大学AI伦理实验室](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g)等机构短期访问并开展紧密学术合作网络。
 
