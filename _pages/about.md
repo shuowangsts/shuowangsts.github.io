@@ -295,6 +295,7 @@ Kinoshita S, **Wang S**, Kishimoto T. [Uneven Distribution of Physicians by Spec
 胡伟, **王硕**. ([乡村振兴中地方新乡贤参与基层治理研究——以江苏三地为例](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/resourceDetail?id=86THU_ALMA_CN51663462210003966&search_scope=default_scope&title=%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&version=&frbrgroupid=556767313&context=L&adaptor=Local%20Search%20Engine&query=any,contains,%E4%B9%A1%E8%B4%A4%E3%80%81%E5%AE%97%E6%97%8F%E4%B8%8E%E5%BD%93%E4%BB%A3%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E5%BB%BA%E8%AE%BE%E7%A0%94%E7%A9%B6&isFrbr=true)). 载《乡贤、宗族与当代乡村文化建设研究》（254-269页）. 广东世界图书出版公司. 2019.
 
   <h2>科研项目：</h2>
+  
   主持清华大学研究生教育教学改革项目“研究生科技伦理素养与能力的调查研究”。
   
   开展中日科学技术与社会晴雨表调查（分别为中日课题组核心成员）。
