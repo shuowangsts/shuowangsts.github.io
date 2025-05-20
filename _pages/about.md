@@ -210,11 +210,11 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 刘天语,**王硕**,刘鸿宇. [“算法制”伦理：数字社会的组织伦理新向度](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vM0_WD7m1Vxrk5Xo_9jl1whnZz_B0XHWMwmB_gBe7MSuKumWDk2uZ4tihEgM9mKJnuBx4FtNf2q5I3OXROgitoMhguVfH2z9izKU-b5VHtJnli7lprVHikvUsZWPWRggRD1qXThxHIHw==&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2023,39(06):78-84. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [算法资本主义：智能时代的资本主义新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31tfEkbTP4Thr4mv7b7KDUoq7d1yVFst-R2GKxjt7pUNa8yXk6VDU7yLvAusC_UrbLHTldVzY-sFkX4Rve0zFjIWIanxMF9xORNkwdY0MhiZjQ==&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,2024,42(12):21-29. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>*</sup>. [算法资本主义：智能时代的资本主义新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6teD4LHkw_Fq25DxZiImhEM_z33X62t31tfEkbTP4Thr4mv7b7KDUoq7d1yVFst-R2GKxjt7pUNa8yXk6VDU7yLvAusC_UrbLHTldVzY-sFkX4Rve0zFjIWIanxMF9xORNkwdY0MhiZjQ==&uniplatform=NZKPT&language=CHS)[J].\*科学学研究\*,2024,42(12):21-29. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [算力伦理学：智能时代的数字伦理新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS)[J].*自然辩证法研究*,2025,41(04):89-98. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>*</sup>. [算力伦理学：智能时代的数字伦理新形态](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBlLHVlw4KgsWTA_Vela6IzdICqCmTInMbgbjXQe0TO3gRAUHdeJb-Y5cB4EJSC8OvftwjWIUBLB5Z2y25SMh3MWqPe2IwV2fmAAqM9iQzUrk=&uniplatform=NZKPT&language=CHS)[J].\*自然辩证法研究\*,2025,41(04):89-98. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-刘天语,**王硕**<sup>*</sup>. [重新理解“数字社会”：技术驱动下的社会形态重构](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS)[J].*科学学研究*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+刘天语,**王硕**<sup>*</sup>. [重新理解“数字社会”：技术驱动下的社会形态重构](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclXza676PpoogOfXyeEoxPZwmwB3EshNSFS9_vou4RslKv5LKMlcJWwy_Cq3_UPJUu5xY3GAt46GLu9qaFl6pN-GOxsF5NJS9Y=&uniplatform=NZKPT&language=CHS)[J].\*科学学研究\*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 武晨箫,**王硕**. [构建面向人工智能时代的科研生态](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html)[N].*学习时报*,2024-11-06(006).
 
@@ -252,7 +252,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
 
 陈登航,**王硕**,汪琛. [社会信任系统何以降低公众的人工智能风险感知？——基于2023年科技与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtreawK42xk2yh7AnBRn9FJ3jfIJP8RwmVrzH1nVBh-YUPK35HXXvvLoWsIjqdFPwmBxrYzT-OO6xJiNMWiTEWuEBjgeJlgBOneqqAf7SAQDY=&uniplatform=NZKPT&language=CHS)[J].*科学学研究*,网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
-阎妍,**王硕**<sup>*</sup>. [公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_PEKCw5UmQfKN-5MNNHio2AnwSgShjFjfExSueuyTAgQI6T0KeYwcHbXqTBauMfbyH7wjLgTbsvAOD9HtRpzd-9MgqbAr9IX2FIgzwGMlC4g==&uniplatform=NZKPT&language=CHS)[J].*中国科技论坛*,2025,(01):109-118. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+阎妍,**王硕**<sup>*</sup>. [公众对科学家精神的认同现状及其差异研究——基于2023年科学技术与社会晴雨表调查的实证分析](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6vRN8KZIlMs_7qIrIp8dmEtTRRGiUNnqq_PEKCw5UmQfKN-5MNNHio2AnwSgShjFjfExSueuyTAgQI6T0KeYwcHbXqTBauMfbyH7wjLgTbsvAOD9HtRpzd-9MgqbAr9IX2FIgzwGMlC4g==&uniplatform=NZKPT&language=CHS)[J].\*中国科技论坛\*,2025,(01):109-118. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 **Wang S**, Liu T, Kinoshita S, Yokoyama H M. ([LLMs may improve medical communication: social science perspective](https://doi.org/10.1093/postmj/qgae101))[J]. *Postgraduate Medical Journal*, 2024: qgae101. ![中科院3区](https://img.shields.io/badge/中科院3区-yellow) ![Letter](https://img.shields.io/badge/Letter-blue)
 
