@@ -9,10 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right; margin-bottom: 10px;">
-  <a href="/zh/">中文</a>
-</div>
-
+{% comment %} 移除了之前添加在页面内的语言切换链接，因为它将改到导航栏 {% endcomment %}
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
