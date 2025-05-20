@@ -149,7 +149,7 @@ author_profile: true
 
 ![CSSCI](https://img.shields.io/badge/CSSCI-red) **王硕**,文侃骁,张敏,苏菲. [退役军人事务的国际研究进展及启示](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GGXZ202304011&uniplatform=OVERSEA&v=ly4knT-_89RGJ7F0Byx8JIJOedJRfpBaYS_kcgLHFfsAXUN1UoY0X6NqhuGyVyp4)[J].公共行政评论,2023,16(04):178-194+200. <u>*《新华文摘》2023年第24期报刊文章篇目辑览收录。*</u>
 
-![北大核心](https://img.shields.io/badge/北大核心-green) 白雪锋,**王硕**,江汶澄,坂井猛,许浩. [城市路网演变中的权力互动:以明代以来的南京为例](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI5Humanities and Social Sciences Communications%2C 2025%2C12%2C353.7jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT)[J].热带地理,2025,45(03):435-448.
+![北大核心](https://img.shields.io/badge/北大核心-green) 白雪锋,**王硕**,江汶澄,坂井猛,许浩. [城市路网演变中的权力互动:以明代以来的南京为例](https://kns.cnki.net/kcms2/article/abstract?v=7c_HF4sgkt42uSkvppjf4bIL19xZXBURg6CNvLBVYfYVcsTyAMJb79EhHMHEUG50Vc_FWx8CrQc_claSh7cpjFnylDJPnh-JGxKL8TVmSmbSnVNuK_LGMAtgdzbuNoGkuNa9sJI57jwsk5-LNWIfcI4J3V4HkxyZg0bRfLOH5vY=&uniplatform=NZKPT)[J].热带地理,2025,45(03):435-448.
 
 刘鸿宇,**王硕**,文侃骁. [高等教育评估的国际研究现状与趋势——基于AEHE期刊的文献计量分析](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2023&filename=SEEK202304007&uniplatform=OVERSEA&v=YqgrZ6iNZxYcpqMVEW4def8xPiITbGwM8QgCveewYymJxHiVma5iAiHZsnrAL80s))[J].教育探索,2023,(04):30-36.
 王珏,**王硕**. ([推进政府伦理建设优势,增强实现“双胜利”保障](https://mdi.seu.edu.cn/2021/0323/c33170a365371/page.htm), 中共江苏省委智库专报, 2020, 27.
