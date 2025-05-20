@@ -171,14 +171,19 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
   <h2>🧑‍💼 学术任职与社会服务</h2>
   
 教育部高校科技伦理教育专项工作秘书处行政助理
+
 [清华大学科学技术与社会研究中心AI for Science工作坊主理人](https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA)
+
 [2025年国际科技的社会研究学会（4S）年会分论坛主席](https://mp.weixin.qq.s/spWOHjz3XJ67EBt133DXRQ)
+
 [《科普研究》特邀学术编辑](https://kpyj.ijournals.cn/ch/index.aspx)
+
 担任以下国际期刊匿名审稿人：
     * [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current)
     * [Journal of Science Communication](https://jcom.sissa.it/)
     * [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20)
     * [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences)
+    
 * 曾在以下机构短期访问并开展学术合作：
     * [东京大学数据驱动发现中心（CD3）](https://cd3.ipmu.jp/people/)
     * [东京大学Beyond AI机构](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/)
