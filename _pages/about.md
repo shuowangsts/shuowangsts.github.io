@@ -77,7 +77,7 @@ lang: en # 标记此页面主要默认语言为英文
 
 <h3 style="color: #006400; text-decoration: underline;">(I) Digital Society and Public Governance</h3>
 
-**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas. *Journal of Xi'an Jiaotong University (Social Sciences)*.Online First. ![Chinese](https://img.shields.io/badge/Chinese-red) 
+**Shuo Wang**, Xushan Zhang, Chenxiao Wu, Yan Yan, Zhengfeng Li.  [AI for Science: Cognitive Collaboration, Lifecycle Impacts, and Action Areas](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=XAJD20250520001&uniplatform=OVERSEA&v=GFeZ7uGA9nyWFi-8iLlbf2R3QxoBBuIOBpmejkjFtr18bbsm6fjX1lDvLwo4RtVZ). *Journal of Xi'an Jiaotong University (Social Sciences)*.Online First. ![Chinese](https://img.shields.io/badge/Chinese-red) 
 
 **Shuo Wang**, Cheng Suo. [Organized Disorder: The Accelerated Diffusion of Generative AI and Adaptation Dilemmas in Social Adoption—An Investigation Based on DeepSeek's "Deployment Competition" ](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DZZW20250407004&uniplatform=OVERSEA&v=BDX51MQhBsmaCgMy_rSm8j01_BMlSnew4S6Nzkw-PD1lY9PLsqTajQ6c0t9FshCF). *E-Government*. Online First.![Chinese](https://img.shields.io/badge/Chinese-red)
 
@@ -224,7 +224,7 @@ Wei Hu., **Shuo Wang**. (2019). [A Study on the Participation of New Local Elite
  
 ### 1、数字社会与公共治理
 
-**王硕**,张徐姗,武晨箫,阎妍,李正风. AI for Science：认知性协作、全过程效应与行动领域[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
+**王硕**,张徐姗,武晨箫,阎妍,李正风. [AI for Science：认知性协作、全过程效应与行动领域](https://kns.cnki.net/kcms2/article/abstract?v=N2LrlypoGYUOCVwmViMPENhX2vuQjrfAcxwoLuzKY61mFU7PkO7GWU83fH2SywV8_Nb9-D9nxWWdt--KTJ4xlYdPugt4Smn_tx_za0b_rWR0alzW1sXT1Z_F5fgw9mDCRhwCjKwvt7nruMDkDcoediE1UFz3mKTrqX-RIlAbCq4=&uniplatform=NZKPT)[J].*西安交通大学学报（社会科学版）*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
 **王硕**,索成. [有组织的无序：生成式AI的加速扩散与社会吸纳的适配困境——基于DeepSeek“部署竞赛”的考察](https://kns.cnki.net/kcms2/article/abstract?v=TD_mLQSGK6uvk9FW0XEBaIUdWqJTE7bBFuAGa3VlrclGQnk6zXZeNLaCU-OaAWtzlZ5m-MD5UQvAGEs1v_6-qOO9FOsYNDpBw5vQbi2HAXBROiS8QZN-ASfagCdnrgL21C8J9ycfqPU=&uniplatform=NZKPT&language=CHS)[J].*电子政务*, 网络首发. ![CSSCI](https://img.shields.io/badge/CSSCI-red)
 
