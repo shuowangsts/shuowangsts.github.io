@@ -59,9 +59,9 @@ lang: en # 标记此页面主要默认语言为英文
 
   <h2 id="en-student-work">🏢 Student Work and Leadership</h2>
 
-  During **doctoral studies**, served as a Member of the Tsinghua University Graduate Education Advisory Committee, Student Mentor at the Youth Research Center of Tsinghua University Communist Youth League Committee, and Deputy Secretary of the Graduate Student Youth League General Branch, School of Public Policy and Management, Tsinghua University.
+  During **doctoral studies**, served as a Member of the Tsinghua University Graduate Education Advisory Committee.
 
-  During **undergraduate studies**, served as a Special Assistant to the President for Student Affairs and Secretary of the Youth League Branch, Southeast University.
+  During **undergraduate studies**, served as a Special Assistant to the President for Student Affairs, Southeast University.
 
   <h2 id="en-social-practice">🏞️ Social Practice and Community Engagement</h2>
 
