@@ -1,5 +1,3 @@
 main:
-  - title: "中文版"
-    url: "/#show-zh"
   - title: "CNKI中国知网"
     url: "https://kns.cnki.net/kcms2/author/detail?v=cp4X_-KT6XO5XvW3yQ4-3EyyfHQSFdlkBXQyTjrqVHQHNGelHf14gGHgm9FINzClrlimCxEhoNjoOfocRUF3D5nufHp2V7d3iZGfY41SSLgbOvqGqAiLvsEboMifLYRF&uniplatform=NZKPT&language=gb"
