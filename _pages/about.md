@@ -20,8 +20,9 @@ My name is Shuo Wang. It's a great pleasure to meet you!
 
  <h2 id="en-educations">📖 Educations</h2>
   
-<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/), **Joint PhD Student**, Science and Technology Studies
-<br> 🔥 Welcome to [Yokoyama Lab (横山研究室)](https://member.ipmu.jp/hiromi.yokoyama/en/index.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)!
+<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/),[The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
+
+➡️🔥🌍 Welcome to [Yokoyama Lab (横山研究室)](https://member.ipmu.jp/hiromi.yokoyama/en/index.html)
 
 <img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - now*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
 
