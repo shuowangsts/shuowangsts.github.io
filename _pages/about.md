@@ -41,7 +41,7 @@ Undertook short-term visits and developed close academic collaborations with ins
 ## 🏅 Awards and Honors
 
 <img src="/images/pcsi.png" alt="Highly Cited Scholar Logo" width="20" height="20" style="vertical-align: middle;"/> **Research & Academic Impact**
-<br> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024 and 2025. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, [First Prize Papers (2 paper) in the 2nd National "Frontiers of S&T Ethics" Essay Competition](https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g), Excellent Paper Award at the 8th National Ethics Conference, and [Third Prize for Excellent Paper at the 2021 Annual Meeting of the Chinese Public Administration Society (CPAS)](https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ).
+<br> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024 and 2025. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, [First Prize Papers (2 papers) in the 2nd National "Frontiers of S&T Ethics" Essay Competition](https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g), Excellent Paper Award at the 8th National Ethics Conference, and [Third Prize for Excellent Paper at the 2021 Annual Meeting of the Chinese Public Administration Society (CPAS)](https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ).
 
 **Scholarships & Honorary Titles**
 <br> During **doctoral studies**, received: [**National Scholarship** (2022-2023)](https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw), [**National Scholarship** (2023-2024)](https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w), National Scholarship(2024-2025),Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship.
