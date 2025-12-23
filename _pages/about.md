@@ -20,7 +20,8 @@ My name is Shuo Wang. It's a great pleasure to meet you!
 
  <h2 id="en-educations">📖 Educations</h2>
   
-<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
+<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/), **Joint PhD Student**, Science and Technology Studies
+<br> 🔥 Welcome to [Yokoyama Lab (横山研究室)](https://member.ipmu.jp/hiromi.yokoyama/en/index.html), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)!
 
 <img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - now*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
 
@@ -39,14 +40,14 @@ Undertook short-term visits and developed close academic collaborations with ins
 ## 🏅 Awards and Honors
 
 <img src="/images/pcsi.png" alt="Highly Cited Scholar Logo" width="20" height="20" style="vertical-align: middle;"/> **Research & Academic Impact**
-<br> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024 and 2025. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, [First Prize Papers (2) in the 2nd National "Frontiers of S&T Ethics" Essay Competition](https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g), Excellent Paper Award at the 8th National Ethics Conference, and [Third Prize for Excellent Paper at the 2021 Annual Meeting of the Chinese Public Administration Society (CPAS)](https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ).
+<br> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024 and 2025. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, [First Prize Papers (2 paper) in the 2nd National "Frontiers of S&T Ethics" Essay Competition](https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g), Excellent Paper Award at the 8th National Ethics Conference, and [Third Prize for Excellent Paper at the 2021 Annual Meeting of the Chinese Public Administration Society (CPAS)](https://mp.weixin.qq.com/s/1hDS6JJ849jk6VYOwVCQzQ).
 
 **Scholarships & Honorary Titles**
 <br> During **doctoral studies**, received: [**National Scholarship** (2022-2023)](https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw), [**National Scholarship** (2023-2024)](https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w), National Scholarship(2024-2025),Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship.
 <br> During **undergraduate studies**, received: **National Scholarship**, **Cyrus Tang Moral Education Scholarship**, Guo Bingwen Scholarship; and honorary titles such as **Jiangsu Provincial Outstanding Student Cadre**, University Outstanding Graduate, University Merit Student, and University Excellent Undergraduate Thesis.
 
 ## 📝 Publications
-### (I) AI for Science and Knowledge
+### (I) AI for Science and Knowledge（人工智能驱动的科学知识生产）
 
 | Year | Title | Authors | Journal (PDF) |
 | :--- | :--- | :--- | :--- |
@@ -66,7 +67,7 @@ Undertook short-term visits and developed close academic collaborations with ins
 | 2025 | **[LLMs May Improve Medical Communication: Social Science Perspective](https://doi.org/10.1093/postmj/qgae101)** | **Wang, S**., Liu, T., Kinoshita, S., & Yokoyama, H. M. | **[*Postgraduate Medical Journal*](https://cloud.tsinghua.edu.cn/f/9d419bef718c40e0ace3/?dl=1)** |
 | 2024 | **[Constructing a Scientific Research Ecosystem for the AI Era](https://paper.cntheory.com/cntheory/2024-11/06/content_9948471.html)** <br> (构建面向人工智能时代的科研生态) | Wu, C., & **Wang, S**. | **[*Study Times*](https://cloud.tsinghua.edu.cn/f/14377dded25f4214b089/?dl=1)** <br> (学习时报) |
 
-### (II) S&T Ethics
+### (II) S&T Ethics（科技伦理）
 
 | Year | Title | Authors | Journal (PDF) |
 | :--- | :--- | :--- | :--- |
@@ -87,7 +88,7 @@ Undertook short-term visits and developed close academic collaborations with ins
 | 2023 | **[Reflections on Ethical Education in Science and Technology Based on Student Needs](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=JYJA202326004&uniplatform=OVERSEA&v=xCn5me6bJ6dOwmRHJM_nXV1VPI7zFOAayG9uI9bbB6KlmlA2iirY4rGg2y9Y68GQ)** <br> (基于学生需求导向的科技伦理教育思考) | **Wang, S**. | **[*The Educator*](https://cloud.tsinghua.edu.cn/f/3a7c8540d980417fbe63/?dl=1)** <br> (教育家) |
 | 2023 | **[The Hot Frontiers and Prospect Research of a Community of Common Health for Mankind: A Knowledge Graph Analysis Based on CiteSpace](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=WSFZ202303009&uniplatform=OVERSEA&v=Vi3b9grzb0VQRwMVv8FYR2ADRQ5MyQ8yu9tM2dMaF_V5jacU1vcaOO9u93nI3L8G)** <br> (人类卫生健康共同体的热点前沿与研究展望——基于CiteSpace的知识图谱分析) | Wen, K., **Wang, S**., & Zhang, L. | **[*China Health Law*](https://cloud.tsinghua.edu.cn/f/bd434a4293ac49faa57f/?dl=1)** <br> (中国卫生法制) |
 
-### (III) Digital Sociology and Digital Governance
+### (III) Digital Sociology and Digital Governance（数字社会学与数字治理）
 
 | Year | Title | Authors | Journal (PDF) |
 | :--- | :--- | :--- | :--- |
