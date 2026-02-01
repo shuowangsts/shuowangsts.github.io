@@ -22,8 +22,6 @@ My name is Shuo Wang. It's a great pleasure to meet you!
   
 <img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/),[The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
 
-➡️🔥🌍 Welcome to [Yokoyama Lab (横山研究室)](https://member.ipmu.jp/hiromi.yokoyama/en/index.html)
-
 <img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - now*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
 
 <img src="/images/sppm.png" alt="Tsinghua University School of Public Policy and Management" width="120" height="20"/> *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Public Administration
@@ -34,9 +32,11 @@ My name is Shuo Wang. It's a great pleasure to meet you!
 
 Administrative Assistant at the Secretariat for the Special Task Force on S&T Ethics Education for Higher Education Institutions, Ministry of Education; [Organizer of the AI for Science Workshop, Center for Science, Technology, and Society (STS), Tsinghua University](https://mp.weixin.qq.com/s/HinwpZNCaPDcuNNc7KzRCA).
 
-[Youth Editorial Board Member for *Journal of Changsha University of Science and Technology (Social Science)* (《长沙理工大学学报(社会科学版)》)](https://cslgxbsk.csust.edu.cn/cslgdxxbsk/home); Invited Academic Editor for [*Studies on Science Popularization* (《科普研究》)](https://kpyj.ijournals.cn/ch/index.aspx) and [*Cultures of Science*](https://journals.sagepub.com/home/cul); Reviewer for international journals including [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current), [Journal of Science Communication](https://jcom.sissa.it/), [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20), and [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences).
+Invited Academic Editor for [*Studies on Science Popularization* (《科普研究》)](https://kpyj.ijournals.cn/ch/index.aspx) and [*Cultures of Science*](https://journals.sagepub.com/home/cul); Reviewer for international journals including [International Journal of Human-Computer Interaction](https://www.tandfonline.com/toc/hihc20/current), [Journal of Science Communication](https://jcom.sissa.it/), [Expert Review of Ophthalmology](https://www.tandfonline.com/journals/ierl20), and [Risk Sciences](https://www.sciencedirect.com/journal/risk-sciences).
 
 Undertook short-term visits and developed close academic collaborations with institutions including the [Center for Data-Driven Discovery (CD3), The University of Tokyo](https://cd3.ipmu.jp/people/), the [Beyond AI Institute, The University of Tokyo](https://itatsulab.jp/2024/11/08/bai-yokoyama-research-workshop/), the [Department of Social and Human Sciences, Tokyo Institute of Technology](https://www.shs.ens.titech.ac.jp/), and the [AI Ethics Lab, Southeast University](https://mp.weixin.qq.com/s/F8nZxCBjHaGMYbo2JVJP1g).
+
+➡️🔥🌍 Welcome to [Yokoyama Lab (横山研究室)](https://member.ipmu.jp/hiromi.yokoyama/en/index.html)
  
 ## 🏅 Awards and Honors
 
@@ -44,8 +44,8 @@ Undertook short-term visits and developed close academic collaborations with ins
 <br> Selected as a CNKI Highly Cited Scholar (Top 5%) in 2024 and 2025. Research achievements include CNKI High PCSI Papers and Highly Cited Papers, [First Prize Papers (2 papers) in the 2nd National "Frontiers of S&T Ethics" Essay Competition](https://mp.weixin.qq.com/s/T54VCyk4I7hiRa602IyT6g), Excellent Paper Award at the 8th National Ethics Conference.
 
 **Scholarships & Honorary Titles**
-<br> During **doctoral studies**, received: [**National Scholarship** (2022-2023)](https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw), [**National Scholarship** (2023-2024)](https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w), National Scholarship(2024-2025),[**Luo-Guojie Ethics Scholarship for Excellent Students**](https://mp.weixin.qq.com/s/f6xpQfuK0iGIim97yvTXZw),Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship.
-<br> During **undergraduate studies**, received: **National Scholarship**, **Cyrus Tang Moral Education Scholarship**, Guo Bingwen Scholarship; and honorary titles such as **Jiangsu Provincial Outstanding Student Cadre**, University Outstanding Graduate, University Merit Student, and University Excellent Undergraduate Thesis.
+<br> During **doctoral studies**, received: [National Scholarship (2022-2023)](https://mp.weixin.qq.com/s/NsfmoovXzUeDBprD_gOilw), [National Scholarship (2023-2024)](https://mp.weixin.qq.com/s/WfRhYMOHMjEMN2NX6VnI_w), National Scholarship(2024-2025),[Luo-Guojie Ethics Scholarship for Excellent Students](https://mp.weixin.qq.com/s/f6xpQfuK0iGIim97yvTXZw),Friends of Tsinghua – Jiukun Scholarship (First Prize), and Future Scholars in Public Administration Scholarship.
+<br> During **undergraduate studies**, received: National Scholarship, Cyrus Tang Moral Education Scholarship, Guo Bingwen Scholarship; and honorary titles such as Jiangsu Provincial Outstanding Student Cadre, University Outstanding Graduate, University Merit Student, and University Excellent Undergraduate Thesis.
 
 ## 📝 Publications
 ### (I) AI for Science and Knowledge（人工智能驱动的科学知识生产）
