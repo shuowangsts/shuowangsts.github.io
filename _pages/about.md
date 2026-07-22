@@ -19,10 +19,12 @@ lang: en # 标记此页面主要默认语言为英文
 My name is Shuo Wang. It's a great pleasure to meet you!
 
  <h2 id="en-educations">📖 Educations</h2>
-  
-<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - now*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/),[The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
 
-<img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - now*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
+<img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - 2026.06*, [School of Marxism](https://www.smarx.tsinghua.edu.cn/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **Assistant Research Fellow**.
+ 
+<img src="/images/ipmu.png" alt="The University of Tokyo Kavli Institute for the Physics and Mathematics of the Universe" width="120" height="20"/> *2023.10 - 2024.10*, [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/),[The University of Tokyo](https://www.u-tokyo.ac.jp/en/), **Joint PhD Student**, Science and Technology Studies
+
+<img src="/images/sss.jpg" alt="Tsinghua University School of Social Sciences" width="120" height="20"/> *2022.04 - 2026.06*, [School of Social Sciences](https://www.sss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Sociology
 
 <img src="/images/sppm.png" alt="Tsinghua University School of Public Policy and Management" width="120" height="20"/> *2021.09 - 2022.04*, [School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), **PhD Student**, Public Administration
 
